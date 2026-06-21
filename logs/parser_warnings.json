@@ -1,0 +1,1518 @@
+[
+  {
+    "file": "atis-parser\\README.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'readme'"
+  },
+  {
+    "file": "atis\\China\\Huayou Cobalt.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'huayou-cobalt'"
+  },
+  {
+    "file": "atis\\China\\Sinomine Resource Group.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'sinomine-resource-group'"
+  },
+  {
+    "file": "atis\\China\\Sinosteel Corporation.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'sinosteel-corporation'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'zimbabwe'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\People\\Allen Mukurazhizha.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'allen-mukurazhizha'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\People\\Andrew N. Bvumbe.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'andrew-n-bvumbe'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\People\\Caleb Makwiranzou.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'caleb-makwiranzou'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\People\\David Kudakwashe Mnangagwa.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'david-kudakwashe-mnangagwa'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\People\\Edwin Zvandasara.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'edwin-zvandasara'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\People\\Forbes Mugumbate.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'forbes-mugumbate'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\People\\Fred Moyo.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'fred-moyo'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\People\\George Tongesayi Guvamatanga.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'george-tongesayi-guvamatanga'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\People\\Gloria Magombo.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'gloria-magombo'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\People\\Joseph Mverecha.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'joseph-mverecha'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\People\\July G. Moyo.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'july-g-moyo'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\People\\Masimba Mudzungayiri.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'masimba-mudzungayiri'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\People\\Michael J. Munodawafa.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'michael-j-munodawafa'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\People\\Mthuli Ncube.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'mthuli-ncube'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\People\\Percy Takavarasha.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'percy-takavarasha'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\People\\Polite Kambamura.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'polite-kambamura'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\People\\Thomas Utete Wushe.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'thomas-utete-wushe'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\People\\Tichaona Makuza.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'tichaona-makuza'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\People\\Wilfred Runyararo Munetsi.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'wilfred-runyararo-munetsi'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\People\\Yeukai Simbanegavi.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'yeukai-simbanegavi'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Legislation\\Capital Gains Tax Act.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'capital-gains-tax-act'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Legislation\\Companies Act.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'companies-act'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Legislation\\Companies and Other Business Entities Act.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'companies-and-other-business-entities-act'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Legislation\\Education Act.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'education-act'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Legislation\\Electricity Act.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'electricity-act'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Legislation\\Energy Regulatory Authority Act.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'energy-regulatory-authority-act'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Legislation\\Environmental Management Act.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'environmental-management-act'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Legislation\\Income Tax Act.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'income-tax-act'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Legislation\\Mines and Minerals Act.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'mines-and-minerals-act'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Legislation\\MMCZ Act.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'mmcz-act'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Legislation\\Postal and Telecommunications Act.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'postal-and-telecommunications-act'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Legislation\\Precious Stones Trade Act.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'precious-stones-trade-act'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Legislation\\Reserve Bank of Zimbabwe Act.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'reserve-bank-of-zimbabwe-act'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Legislation\\Revenue Authority Act.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'revenue-authority-act'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Legislation\\Value Added Tax Regulations.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'value-added-tax-regulations'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Legislation\\Zimbabwe Investment and Development Act.md",
+    "warning": "Malformed YAML metadata frontmatter: while parsing a block mapping\n  in \"<unicode string>\", line 1, column 1:\n    uid: \"ZIMLEGIS_001\"\n    ^\nexpected <block end>, but found '<scalar>'\n  in \"<unicode string>\", line 6, column 154:\n     ... t established ZIDA to act as a \"One-Stop Investment Services Cen ... \n                                         ^"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Legislation\\Zimbabwe Investment and Development Act.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'zimbabwe-investment-and-development-act'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Aviation Approval.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'aviation-approval'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Blasting Permit.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'blasting-permit'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Borehole_Water Permit.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'borehole-water-permit'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Cellular Telecommunications Licence.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'cellular-telecommunications-licence'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Company Registration Certificate.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'company-registration-certificate'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Courier Operator Licence.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'courier-operator-licence'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Data Service Provider Licence.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'data-service-provider-licence'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Diamond Marketing Approval.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'diamond-marketing-approval'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Distribution Licence.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'distribution-licence'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\EIA Certificate.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'eia-certificate'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Employer Registration.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'employer-registration'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Environmental Approval.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'environmental-approval'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Environmental Impact Assessment.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'environmental-impact-assessment'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Exchange Control Approval (where applicable).md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'exchange-control-approval-where-applicable'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Exclusive Prospecting Order.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'exclusive-prospecting-order'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Explosives Permit.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'explosives-permit'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Export Authorization.md",
+    "warning": "Malformed YAML metadata frontmatter: while parsing a block mapping\n  in \"<unicode string>\", line 1, column 1:\n    permit_license: Export Authorization\n    ^\nexpected <block end>, but found '<scalar>'\n  in \"<unicode string>\", line 2, column 43:\n     ... tity: [[Fidelity Gold Refinery]]; [[Reserve Bank of Zimbabwe (RBZ)]]\n                                         ^"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Export Authorization.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'export-authorization'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Export Permit.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'export-permit'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Forestry Permit.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'forestry-permit'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Fuel Retail Licence.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'fuel-retail-licence'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Fuel Storage Licence.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'fuel-storage-licence'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Generation Licence.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'generation-licence'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Gold Buying and Delivery Registration.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'gold-buying-and-delivery-registration'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Hazardous Substance Licence.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'hazardous-substance-licence'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Internet Access Provider (IAP) Licence.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'internet-access-provider-iap-licence'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Investment License.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'investment-license'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Mineral Marketing Registration.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'mineral-marketing-registration'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Mining Lease _ Mining Title.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'mining-lease-mining-title'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Network Facilities Licence.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'network-facilities-licence'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Postal Operator Licence.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'postal-operator-licence'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\PPP Approval.md",
+    "warning": "Malformed YAML metadata frontmatter: while parsing a block mapping\n  in \"<unicode string>\", line 1, column 1:\n    permit_license: PPP Approval\n    ^\nexpected <block end>, but found '<scalar>'\n  in \"<unicode string>\", line 2, column 70:\n     ...  and Development Agency (ZIDA)]]; [[Ministry of Finance, Economi ... \n                                         ^"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\PPP Approval.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'ppp-approval'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Private Network Licence.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'private-network-licence'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Prospecting Licence.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'prospecting-licence'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Public Telecommunications Service Licence (PTSL).md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'public-telecommunications-service-licence-ptsl'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Radio Station Licence.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'radio-station-licence'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Rail Access Approval.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'rail-access-approval'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Registration of Mine.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'registration-of-mine'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Road Access Approval.md",
+    "warning": "Malformed YAML metadata frontmatter: while parsing a block mapping\n  in \"<unicode string>\", line 1, column 1:\n    permit_license: Road Access Approval\n    ^\nexpected <block end>, but found '<scalar>'\n  in \"<unicode string>\", line 2, column 67:\n     ... l Road Administration (ZINARA)]]; Local Authority\n                                         ^"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Road Access Approval.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'road-access-approval'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\SEZ Investor Approval.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'sez-investor-approval'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Spectrum Licence.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'spectrum-licence'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Standards Certification (where applicable).md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'standards-certification-where-applicable'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Supplier Registration.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'supplier-registration'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\VSAT Licence.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'vsat-licence'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Waste Management Licence.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'waste-management-licence'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Water Abstraction Permit.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'water-abstraction-permit'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Water Works Approval.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'water-works-approval'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Wildlife Permit.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'wildlife-permit'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Energy and Power Development\\Minister of Energy and Power Development.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'minister-of-energy-and-power-development'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Energy and Power Development\\Ministry of Energy and Power Development.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'ministry-of-energy-and-power-development'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Finance, Economic Development and Investment Promotion\\Minister of Finance, Economic Development and Investment Promotion.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'minister-of-finance-economic-development-and-investment-promotion'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Finance, Economic Development and Investment Promotion\\Ministry of Finance, Economic Development and Investment Promotion.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'ministry-of-finance-economic-development-and-investment-promotion'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Mines and Mining Development\\Minister of Mines and Mining Development.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'minister-of-mines-and-mining-development'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Mines and Mining Development\\Ministry of Mines and Mining Development.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'ministry-of-mines-and-mining-development'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Mines and Mining Development\\Departments\\Communications and Advocacy\\Communications and Advocacy.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'communications-and-advocacy'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Mines and Mining Development\\Departments\\Gender Mainstreaming, Inclusivity and Wellness\\Gender Mainstreaming, Inclusivity and Wellness.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'gender-mainstreaming-inclusivity-and-wellness'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Mines and Mining Development\\Departments\\Geological Survey Department\\Geological Survey Department.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'geological-survey-department'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Mines and Mining Development\\Departments\\Metallurgy Department\\Metallurgy Department.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'metallurgy-department'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Mines and Mining Development\\Departments\\Mining Engineering Department\\Mining Engineering Department.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'mining-engineering-department'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Mines and Mining Development\\Departments\\Office of the Deputy Minister of the Ministry of Mines and Mining Development\\Office of the Deputy Minister of the Ministry of Mines and Mining Development.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'office-of-the-deputy-minister-of-the-ministry-of-mines-and-mining-development'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Mines and Mining Development\\Departments\\Office of the Permanent Secretary of the Ministry of Mines and Mining Development\\Office of the Permanent Secretary of the Ministry of Mines and Mining Development.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'office-of-the-permanent-secretary-of-the-ministry-of-mines-and-mining-development'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Mines and Mining Development\\Departments\\Research, Value Addition and Beneficiation Department\\Research, Value Addition and Beneficiation Department.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'research-value-addition-and-beneficiation-department'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Mines and Mining Development\\Departments\\Research, Value Addition and Beneficiation Department\\Positions\\Director Research, Value Addition and Beneficiation.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'director-research-value-addition-and-beneficiation'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Mines and Mining Development\\Departments\\Office of the Permanent Secretary of the Ministry of Mines and Mining Development\\Positions\\Permanent Secretary.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'permanent-secretary'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Mines and Mining Development\\Departments\\Office of the Deputy Minister of the Ministry of Mines and Mining Development\\Positions\\Deputy Minister of the Ministry of Mines and Mining Development.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'deputy-minister-of-the-ministry-of-mines-and-mining-development'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Mines and Mining Development\\Departments\\Mining Engineering Department\\Positions\\Chief Government Mining Engineer.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'chief-government-mining-engineer'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Mines and Mining Development\\Departments\\Geological Survey Department\\Positions\\Director Geological Survey.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'director-geological-survey'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Mines and Mining Development\\Departments\\Communications and Advocacy\\Positions\\Deputy Director Communications and Advocacy.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'deputy-director-communications-and-advocacy'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Finance, Economic Development and Investment Promotion\\Departments\\Accountant General's Department\\Accountant General's Department.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'accountant-generals-department'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Finance, Economic Development and Investment Promotion\\Departments\\Budget and Fiscal Policy Department\\Budget and Fiscal Policy Department.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'budget-and-fiscal-policy-department'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Finance, Economic Development and Investment Promotion\\Departments\\Central Internal Audit Unit\\Central Internal Audit Unit.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'central-internal-audit-unit'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Finance, Economic Development and Investment Promotion\\Departments\\Economic Affairs Department\\Economic Affairs Department.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'economic-affairs-department'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Finance, Economic Development and Investment Promotion\\Departments\\Expenditure Management Department\\Expenditure Management Department.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'expenditure-management-department'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Finance, Economic Development and Investment Promotion\\Departments\\Financial and Capital Markets Department\\Financial and Capital Markets Department.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'financial-and-capital-markets-department'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Finance, Economic Development and Investment Promotion\\Departments\\Investment Promotion and Public-Private Partnerships Department\\Investment Promotion and Public-Private Partnerships Department.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'investment-promotion-and-public-private-partnerships-department'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Finance, Economic Development and Investment Promotion\\Departments\\Public Debt Management Office (ZPDMO)\\Public Debt Management Office (ZPDMO).md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'public-debt-management-office-zpdmo'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Finance, Economic Development and Investment Promotion\\Departments\\Public Enterprises Reform Management Unit\\Public Enterprises Reform Management Unit.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'public-enterprises-reform-management-unit'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Finance, Economic Development and Investment Promotion\\Departments\\Revenue and Tax Policy Department\\Revenue and Tax Policy Department.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'revenue-and-tax-policy-department'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Finance, Economic Development and Investment Promotion\\Departments\\Zimbabwe Public Debt Management Office (ZPDMO)\\Zimbabwe Public Debt Management Office (ZPDMO).md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'zimbabwe-public-debt-management-office-zpdmo'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Finance, Economic Development and Investment Promotion\\Departments\\Zimbabwe Public Debt Management Office (ZPDMO)\\Positions\\Head, Public Debt Management Office (ZPDMO).md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'head-public-debt-management-office-zpdmo'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Finance, Economic Development and Investment Promotion\\Departments\\Revenue and Tax Policy Department\\Position\\Acting Chief Director, Revenue and Tax Policy.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'acting-chief-director-revenue-and-tax-policy'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Finance, Economic Development and Investment Promotion\\Departments\\Expenditure Management Department\\Positions\\Chief Director, Expenditure Management.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'chief-director-expenditure-management'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Finance, Economic Development and Investment Promotion\\Departments\\Economic Affairs Department\\Positions\\Chief Director, Economic Affairs.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'chief-director-economic-affairs'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Finance, Economic Development and Investment Promotion\\Departments\\Central Internal Audit Unit\\Positions\\Chief Director, Central Internal Audit Unit.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'chief-director-central-internal-audit-unit'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Finance, Economic Development and Investment Promotion\\Departments\\Accountant General's Department\\Position\\Accountant General.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'accountant-general'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Energy and Power Development\\Departments\\Energy Conservation and Renewable Energy\\Energy Conservation and Renewable Energy.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'energy-conservation-and-renewable-energy'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Energy and Power Development\\Departments\\Energy Data and Coordination\\Energy Data and Coordination.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'energy-data-and-coordination'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Energy and Power Development\\Departments\\Energy Planning and Projects\\Energy Planning and Projects.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'energy-planning-and-projects'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Energy and Power Development\\Departments\\Energy Regulation and Compliance\\Energy Regulation and Compliance.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'energy-regulation-and-compliance'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Energy and Power Development\\Departments\\Office of the Deputy Minister of the Ministry of Mines and Mining Development\\Office of the Deputy Minister of the Ministry of Mines and Mining Development.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'office-of-the-deputy-minister-of-the-ministry-of-mines-and-mining-development-7a05c7'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Energy and Power Development\\Departments\\Petroleum and Energy Supply\\Petroleum and Energy Supply.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'petroleum-and-energy-supply'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Energy and Power Development\\Departments\\Power Development\\Power Development.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'power-development'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Energy and Power Development\\Departments\\Provincial Energy Coordination Offices\\Provincial Energy Coordination Offices.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'provincial-energy-coordination-offices'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Energy and Power Development\\Departments\\Resource Centre\\Resource Centre.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'resource-centre'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Energy and Power Development\\Departments\\Rural Electrification\\Rural Electrification.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'rural-electrification'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Energy and Power Development\\Departments\\Office of the Deputy Minister of the Ministry of Mines and Mining Development\\Positions\\Deputy Minister of Energy and Power Development.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'deputy-minister-of-energy-and-power-development'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Energy\\Zimbabwe Electricity Supply Authority (ZESA Holdings).md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'zimbabwe-electricity-supply-authority-zesa-holdings'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Energy\\Zimbabwe Electricity Transmission and Distribution Company (ZETDC).md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'zimbabwe-electricity-transmission-and-distribution-company-zetdc'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Energy\\Zimbabwe Geological Survey.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'zimbabwe-geological-survey'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Energy\\Zimbabwe National Water Authority (ZINWA).md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'zimbabwe-national-water-authority-zinwa'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Energy\\Zimbabwe Power Company (ZPC).md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'zimbabwe-power-company-zpc'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Enviroment\\Forestry Commission.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'forestry-commission'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Enviroment\\Parks and Wildlife Management Authority (ZimParks).md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'parks-and-wildlife-management-authority-zimparks'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Finance\\National Social Security Authority (NSSA).md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'national-social-security-authority-nssa'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Mines\\Arcadia Lithium Mine.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'arcadia-lithium-mine'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Mines\\Bikita Minerals.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'bikita-minerals'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Mines\\Bindura Nickel Corporation.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'bindura-nickel-corporation'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Mines\\Blanket Mine.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'blanket-mine'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Mines\\Caledonia Mining Corporation.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'caledonia-mining-corporation'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Mines\\Cam and Motor Mine.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'cam-and-motor-mine'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Mines\\Fidelity Gold Refinery (FGR).md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'fidelity-gold-refinery-fgr'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Mines\\Freda Rebecca Gold Mine.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'freda-rebecca-gold-mine'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Mines\\How Mine.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'how-mine'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Mines\\Hwange Colliery.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'hwange-colliery'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Mines\\Kuvimba Mining House.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'kuvimba-mining-house'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Mines\\Mimosa Mine.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'mimosa-mine'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Mines\\Mining Affairs Board (MAB).md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'mining-affairs-board-mab'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Mines\\Murowa Diamond Mine.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'murowa-diamond-mine'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Mines\\National Oil Infrastructure Company of Zimbabwe (NOIC).md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'national-oil-infrastructure-company-of-zimbabwe-noic'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Mines\\Renco Mine.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'renco-mine'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Mines\\RioZim.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'riozim'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Mines\\Shamva Mine.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'shamva-mine'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Mines\\Trojan Nickel Mine.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'trojan-nickel-mine'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Mines\\Unki Mine.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'unki-mine'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Mines\\ZIMASCO Operations.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'zimasco-operations'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Mines\\Zimbabwe Mining Development Corporation (ZMDC).md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'zimbabwe-mining-development-corporation-zmdc'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Mines\\Zimplats.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'zimplats'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Regulatory Agencies\\Environmental Management Agency (EMA).md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'environmental-management-agency-ema'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Regulatory Agencies\\Minerals Marketing Corporation of Zimbabwe (MMCZ).md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'minerals-marketing-corporation-of-zimbabwe-mmcz'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Regulatory Agencies\\Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ).md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'postal-and-telecommunications-regulatory-authority-of-zimbabwe-potraz'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Regulatory Agencies\\Procurement Regulatory Authority of Zimbabwe (PRAZ).md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'procurement-regulatory-authority-of-zimbabwe-praz'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Regulatory Agencies\\Reserve Bank of Zimbabwe (RBZ).md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'reserve-bank-of-zimbabwe-rbz'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Regulatory Agencies\\Standards Association of Zimbabwe (SAZ).md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'standards-association-of-zimbabwe-saz'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Regulatory Agencies\\Zimbabwe Energy Regulatory Authority (ZERA).md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'zimbabwe-energy-regulatory-authority-zera'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Regulatory Agencies\\Zimbabwe Investment and Development Agency (ZIDA).md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'zimbabwe-investment-and-development-agency-zida'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Regulatory Agencies\\Zimbabwe National Statistics Agency (ZIMSTAT).md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'zimbabwe-national-statistics-agency-zimstat'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Regulatory Agencies\\Zimbabwe Revenue Authority (ZIMRA).md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'zimbabwe-revenue-authority-zimra'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Schools\\Ariel International School.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'ariel-international-school'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Schools\\Arundel School.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'arundel-school'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Schools\\Association of Trust Schools Zimbabwe.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'association-of-trust-schools-zimbabwe'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Schools\\Cygnet Private College.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'cygnet-private-college'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Schools\\Direct Contact School.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'direct-contact-school'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Schools\\Firm Foundation Christian Academy.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'firm-foundation-christian-academy'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Schools\\GMRI Academy.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'gmri-academy'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Schools\\Hakuna Matata International School.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'hakuna-matata-international-school'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Schools\\Harare International School.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'harare-international-school'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Schools\\Hellenic Academy.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'hellenic-academy'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Schools\\Littlerock International School.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'littlerock-international-school'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Schools\\Mother Touch Group Of Schools.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'mother-touch-group-of-schools'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Schools\\Reekworth Schools.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'reekworth-schools'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Schools\\Ridley College ZW.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'ridley-college-zw'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Schools\\Riverlodge International School.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'riverlodge-international-school'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Schools\\Seattle Elite Senior School.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'seattle-elite-senior-school'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Schools\\Solaris International School.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'solaris-international-school'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Schools\\The Heritage School.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'the-heritage-school'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Schools\\The Hill Preparatory School.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'the-hill-preparatory-school'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Schools\\Westminster International School.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'westminster-international-school'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Schools\\Westwood International School.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'westwood-international-school'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Transport\\Airports Company of Zimbabwe (ACZ).md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'airports-company-of-zimbabwe-acz'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Transport\\Civil Aviation Authority of Zimbabwe (CAAZ).md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'civil-aviation-authority-of-zimbabwe-caaz'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Transport\\National Railways of Zimbabwe (NRZ).md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'national-railways-of-zimbabwe-nrz'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Transport\\Zimbabwe National Road Administration (ZINARA).md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'zimbabwe-national-road-administration-zinara'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Abraham.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'abraham'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Banket.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'banket'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Baswi.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'baswi'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Bayi Bayi.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'bayi-bayi'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Bemthree.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'bemthree'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Chadyeni.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'chadyeni'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Chief Garahwa.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'chief-garahwa'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Chief Matsiwo.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'chief-matsiwo'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Chief Nqoya.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'chief-nqoya'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Chigweremba.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'chigweremba'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Chinzou.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'chinzou'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Chiporiro.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'chiporiro'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Chitehere.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'chitehere'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Chitowa.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'chitowa'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Chiva.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'chiva'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Chivima.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'chivima'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Craigengower.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'craigengower'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Dabula.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'dabula'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Danda.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'danda'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Deleleni.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'deleleni'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Duvaduve.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'duvaduve'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Gadzema.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'gadzema'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Gokwe.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'gokwe'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Gondowe.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'gondowe'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Gwaza.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'gwaza'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Impampa.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'impampa'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Jacaranda.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'jacaranda'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Jera.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'jera'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Kadivirire.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'kadivirire'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Kawahove.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'kawahove'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Kotwa.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'kotwa'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Kuvengwa.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'kuvengwa'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Machacha.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'machacha'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Madimba.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'madimba'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Madya.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'madya'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Mahambe.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'mahambe'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Makufa.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'makufa'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Makulukusa.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'makulukusa'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Makvlela.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'makvlela'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Mamima.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'mamima'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Manyika.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'manyika'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Maplanka.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'maplanka'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Masocha.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'masocha'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Maware.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'maware'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Mberikanashe.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'mberikanashe'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Mbizo African Township.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'mbizo-african-township'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Mbizo.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'mbizo'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Mbute.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'mbute'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Mjumi.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'mjumi'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Mount Pleasant Park.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'mount-pleasant-park'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Mtampane.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'mtampane'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Mtoredzanwe.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'mtoredzanwe'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Mtsuli.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'mtsuli'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Mucibwa.md",
+    "warning": "Malformed YAML metadata frontmatter: mapping values are not allowed here\n  in \"<unicode string>\", line 5, column 449:\n     ...  chrome. Infrastructure is basic: a primary school, a health out ... \n                                         ^"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Mucibwa.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'mucibwa'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Mundityi.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'mundityi'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Muswayi.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'muswayi'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Mutasa.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'mutasa'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Mutondoro.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'mutondoro'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Muyambirwi.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'muyambirwi'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Mvurwi.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'mvurwi'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Nazvaure.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'nazvaure'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Ndakaripei.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'ndakaripei'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Ndongwe.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'ndongwe'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Nemaparo.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'nemaparo'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Nembudzia.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'nembudzia'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Nganyana.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'nganyana'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Ngundu Halt.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'ngundu-halt'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Nhambu.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'nhambu'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Nyabira.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'nyabira'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Nyadzi.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'nyadzi'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Nyakatha.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'nyakatha'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Nyamunga.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'nyamunga'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Nyandebvu.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'nyandebvu'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Nyanyadzi.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'nyanyadzi'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Nzunguchewa.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'nzunguchewa'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Pambuka.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'pambuka'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Payarira.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'payarira'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Penhalonga.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'penhalonga'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Peter.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'peter'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Raffingora.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'raffingora'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Sakurai.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'sakurai'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Saumani.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'saumani'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Selous.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'selous'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Senka.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'senka'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Shoko.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'shoko'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Siganda.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'siganda'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Sipongweni.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'sipongweni'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Tankahukwe.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'tankahukwe'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Tavafumisa.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'tavafumisa'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Tshayakuhle.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'tshayakuhle'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Tumbare.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'tumbare'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Tumbe.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'tumbe'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Watsomba.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'watsomba'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Wedza.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'wedza'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Wenzera.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'wenzera'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Woodville South.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'woodville-south'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Zanyika.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'zanyika'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Zimondi.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'zimondi'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Zival.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'zival'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Provinces\\Bulawayo.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'bulawayo'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Provinces\\Harare.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'harare'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Provinces\\Manicaland.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'manicaland'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Provinces\\Mashonaland Central.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'mashonaland-central'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Provinces\\Mashonaland East.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'mashonaland-east'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Provinces\\Mashonaland West.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'mashonaland-west'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Provinces\\Masvingo.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'masvingo'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Provinces\\Matabeleland North.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'matabeleland-north'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Provinces\\Matabeleland South.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'matabeleland-south'"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Provinces\\Midlands.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'midlands'"
+  },
+  {
+    "file": "atis\\United Kingdom\\Companies\\DBE Services.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'dbe-services'"
+  },
+  {
+    "file": "atis\\United Kingdom\\Companies\\Deliver British Education Ltd.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'deliver-british-education-ltd'"
+  },
+  {
+    "file": "atis\\United Kingdom\\Companies\\Metallon Corporation.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'metallon-corporation'"
+  },
+  {
+    "file": "atis\\Switzerland\\Companies\\Subspace Energy Hub.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'subspace-energy-hub'"
+  },
+  {
+    "file": "atis\\Switzerland\\Companies\\VersuchsStollen Hagerbach (Hagerbach Test Gallery).md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'versuchsstollen-hagerbach-hagerbach-test-gallery'"
+  },
+  {
+    "file": "atis\\South Africa\\Companies\\Anglo American Platinum.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'anglo-american-platinum'"
+  },
+  {
+    "file": "atis\\South Africa\\Companies\\Impala Platinum Holdings Limited.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'impala-platinum-holdings-limited'"
+  },
+  {
+    "file": "atis\\South Africa\\Companies\\Sibanye-Stillwater.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'sibanye-stillwater'"
+  },
+  {
+    "file": "atis\\Germany\\Companies\\RID Batterie.md",
+    "warning": "Missing explicit UUID/UID. Auto-generated stable reference identity: 'rid-batterie'"
+  },
+  {
+    "file": "atis-parser\\README.md",
+    "warning": "Missing entity_type inferred from folder structure pathing."
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe.md",
+    "warning": "Missing entity_type inferred from folder structure pathing."
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Legislation\\Zimbabwe Investment and Development Act.md",
+    "warning": "Malformed YAML metadata frontmatter: while parsing a block mapping\n  in \"<unicode string>\", line 1, column 1:\n    uid: \"ZIMLEGIS_001\"\n    ^\nexpected <block end>, but found '<scalar>'\n  in \"<unicode string>\", line 6, column 154:\n     ... t established ZIDA to act as a \"One-Stop Investment Services Cen ... \n                                         ^"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Aviation Approval.md",
+    "warning": "Missing entity_type inferred from folder structure pathing."
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Blasting Permit.md",
+    "warning": "Missing entity_type inferred from folder structure pathing."
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Borehole_Water Permit.md",
+    "warning": "Missing entity_type inferred from folder structure pathing."
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Cellular Telecommunications Licence.md",
+    "warning": "Missing entity_type inferred from folder structure pathing."
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Company Registration Certificate.md",
+    "warning": "Missing entity_type inferred from folder structure pathing."
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Courier Operator Licence.md",
+    "warning": "Missing entity_type inferred from folder structure pathing."
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Data Service Provider Licence.md",
+    "warning": "Missing entity_type inferred from folder structure pathing."
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Diamond Marketing Approval.md",
+    "warning": "Missing entity_type inferred from folder structure pathing."
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Distribution Licence.md",
+    "warning": "Missing entity_type inferred from folder structure pathing."
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\EIA Certificate.md",
+    "warning": "Missing entity_type inferred from folder structure pathing."
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Employer Registration.md",
+    "warning": "Missing entity_type inferred from folder structure pathing."
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Environmental Approval.md",
+    "warning": "Missing entity_type inferred from folder structure pathing."
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Environmental Impact Assessment.md",
+    "warning": "Missing entity_type inferred from folder structure pathing."
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Exchange Control Approval (where applicable).md",
+    "warning": "Missing entity_type inferred from folder structure pathing."
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Exclusive Prospecting Order.md",
+    "warning": "Missing entity_type inferred from folder structure pathing."
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Explosives Permit.md",
+    "warning": "Missing entity_type inferred from folder structure pathing."
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Export Authorization.md",
+    "warning": "Malformed YAML metadata frontmatter: while parsing a block mapping\n  in \"<unicode string>\", line 1, column 1:\n    permit_license: Export Authorization\n    ^\nexpected <block end>, but found '<scalar>'\n  in \"<unicode string>\", line 2, column 43:\n     ... tity: [[Fidelity Gold Refinery]]; [[Reserve Bank of Zimbabwe (RBZ)]]\n                                         ^"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Export Authorization.md",
+    "warning": "Missing entity_type inferred from folder structure pathing."
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Export Permit.md",
+    "warning": "Missing entity_type inferred from folder structure pathing."
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Forestry Permit.md",
+    "warning": "Missing entity_type inferred from folder structure pathing."
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Fuel Retail Licence.md",
+    "warning": "Missing entity_type inferred from folder structure pathing."
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Fuel Storage Licence.md",
+    "warning": "Missing entity_type inferred from folder structure pathing."
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Generation Licence.md",
+    "warning": "Missing entity_type inferred from folder structure pathing."
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Gold Buying and Delivery Registration.md",
+    "warning": "Missing entity_type inferred from folder structure pathing."
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Hazardous Substance Licence.md",
+    "warning": "Missing entity_type inferred from folder structure pathing."
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Internet Access Provider (IAP) Licence.md",
+    "warning": "Missing entity_type inferred from folder structure pathing."
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Investment License.md",
+    "warning": "Missing entity_type inferred from folder structure pathing."
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Mineral Marketing Registration.md",
+    "warning": "Missing entity_type inferred from folder structure pathing."
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Mining Lease _ Mining Title.md",
+    "warning": "Missing entity_type inferred from folder structure pathing."
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Network Facilities Licence.md",
+    "warning": "Missing entity_type inferred from folder structure pathing."
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Postal Operator Licence.md",
+    "warning": "Missing entity_type inferred from folder structure pathing."
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\PPP Approval.md",
+    "warning": "Malformed YAML metadata frontmatter: while parsing a block mapping\n  in \"<unicode string>\", line 1, column 1:\n    permit_license: PPP Approval\n    ^\nexpected <block end>, but found '<scalar>'\n  in \"<unicode string>\", line 2, column 70:\n     ...  and Development Agency (ZIDA)]]; [[Ministry of Finance, Economi ... \n                                         ^"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\PPP Approval.md",
+    "warning": "Missing entity_type inferred from folder structure pathing."
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Private Network Licence.md",
+    "warning": "Missing entity_type inferred from folder structure pathing."
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Prospecting Licence.md",
+    "warning": "Missing entity_type inferred from folder structure pathing."
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Public Telecommunications Service Licence (PTSL).md",
+    "warning": "Missing entity_type inferred from folder structure pathing."
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Radio Station Licence.md",
+    "warning": "Missing entity_type inferred from folder structure pathing."
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Rail Access Approval.md",
+    "warning": "Missing entity_type inferred from folder structure pathing."
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Registration of Mine.md",
+    "warning": "Missing entity_type inferred from folder structure pathing."
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Road Access Approval.md",
+    "warning": "Malformed YAML metadata frontmatter: while parsing a block mapping\n  in \"<unicode string>\", line 1, column 1:\n    permit_license: Road Access Approval\n    ^\nexpected <block end>, but found '<scalar>'\n  in \"<unicode string>\", line 2, column 67:\n     ... l Road Administration (ZINARA)]]; Local Authority\n                                         ^"
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Road Access Approval.md",
+    "warning": "Missing entity_type inferred from folder structure pathing."
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\SEZ Investor Approval.md",
+    "warning": "Missing entity_type inferred from folder structure pathing."
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Spectrum Licence.md",
+    "warning": "Missing entity_type inferred from folder structure pathing."
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Standards Certification (where applicable).md",
+    "warning": "Missing entity_type inferred from folder structure pathing."
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Supplier Registration.md",
+    "warning": "Missing entity_type inferred from folder structure pathing."
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\VSAT Licence.md",
+    "warning": "Missing entity_type inferred from folder structure pathing."
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Waste Management Licence.md",
+    "warning": "Missing entity_type inferred from folder structure pathing."
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Water Abstraction Permit.md",
+    "warning": "Missing entity_type inferred from folder structure pathing."
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Water Works Approval.md",
+    "warning": "Missing entity_type inferred from folder structure pathing."
+  },
+  {
+    "file": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Wildlife Permit.md",
+    "warning": "Missing entity_type inferred from folder structure pathing."
+  },
+  {
+    "file": "atis\\Zimbabwe\\Region\\Cities\\Mucibwa.md",
+    "warning": "Malformed YAML metadata frontmatter: mapping values are not allowed here\n  in \"<unicode string>\", line 5, column 449:\n     ...  chrome. Infrastructure is basic: a primary school, a health out ... \n                                         ^"
+  }
+]

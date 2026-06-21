@@ -1,0 +1,2242 @@
+[
+  {
+    "id": "readme",
+    "name": "README",
+    "type": "unknown",
+    "country": "atis-parser",
+    "path": "atis-parser\\README.md"
+  },
+  {
+    "id": "huayou-cobalt",
+    "name": "Huayou Cobalt",
+    "type": "company",
+    "country": "China",
+    "path": "atis\\China\\Huayou Cobalt.md"
+  },
+  {
+    "id": "sinomine-resource-group",
+    "name": "Sinomine Resource Group",
+    "type": "company",
+    "country": "China",
+    "path": "atis\\China\\Sinomine Resource Group.md"
+  },
+  {
+    "id": "sinosteel-corporation",
+    "name": "Sinosteel Corporation",
+    "type": "company",
+    "country": "China",
+    "path": "atis\\China\\Sinosteel Corporation.md"
+  },
+  {
+    "id": "zimbabwe",
+    "name": "Zimbabwe",
+    "type": "unknown",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe.md"
+  },
+  {
+    "id": "allen-mukurazhizha",
+    "name": "Allen Mukurazhizha",
+    "type": "person",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\People\\Allen Mukurazhizha.md"
+  },
+  {
+    "id": "andrew-n-bvumbe",
+    "name": "Andrew N. Bvumbe",
+    "type": "person",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\People\\Andrew N. Bvumbe.md"
+  },
+  {
+    "id": "caleb-makwiranzou",
+    "name": "Caleb Makwiranzou",
+    "type": "person",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\People\\Caleb Makwiranzou.md"
+  },
+  {
+    "id": "david-kudakwashe-mnangagwa",
+    "name": "David Kudakwashe Mnangagwa",
+    "type": "person",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\People\\David Kudakwashe Mnangagwa.md"
+  },
+  {
+    "id": "edwin-zvandasara",
+    "name": "Edwin Zvandasara",
+    "type": "person",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\People\\Edwin Zvandasara.md"
+  },
+  {
+    "id": "forbes-mugumbate",
+    "name": "Forbes Mugumbate",
+    "type": "person",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\People\\Forbes Mugumbate.md"
+  },
+  {
+    "id": "fred-moyo",
+    "name": "Fred Moyo",
+    "type": "person",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\People\\Fred Moyo.md"
+  },
+  {
+    "id": "george-tongesayi-guvamatanga",
+    "name": "George Tongesayi Guvamatanga",
+    "type": "person",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\People\\George Tongesayi Guvamatanga.md"
+  },
+  {
+    "id": "gloria-magombo",
+    "name": "Gloria Magombo",
+    "type": "person",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\People\\Gloria Magombo.md"
+  },
+  {
+    "id": "joseph-mverecha",
+    "name": "Joseph Mverecha",
+    "type": "person",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\People\\Joseph Mverecha.md"
+  },
+  {
+    "id": "july-g-moyo",
+    "name": "July G. Moyo",
+    "type": "person",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\People\\July G. Moyo.md"
+  },
+  {
+    "id": "masimba-mudzungayiri",
+    "name": "Masimba Mudzungayiri",
+    "type": "person",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\People\\Masimba Mudzungayiri.md"
+  },
+  {
+    "id": "michael-j-munodawafa",
+    "name": "Michael J. Munodawafa",
+    "type": "person",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\People\\Michael J. Munodawafa.md"
+  },
+  {
+    "id": "mthuli-ncube",
+    "name": "Mthuli Ncube",
+    "type": "person",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\People\\Mthuli Ncube.md"
+  },
+  {
+    "id": "percy-takavarasha",
+    "name": "Percy Takavarasha",
+    "type": "person",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\People\\Percy Takavarasha.md"
+  },
+  {
+    "id": "polite-kambamura",
+    "name": "Polite Kambamura",
+    "type": "person",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\People\\Polite Kambamura.md"
+  },
+  {
+    "id": "thomas-utete-wushe",
+    "name": "Thomas Utete Wushe",
+    "type": "person",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\People\\Thomas Utete Wushe.md"
+  },
+  {
+    "id": "tichaona-makuza",
+    "name": "Tichaona Makuza",
+    "type": "person",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\People\\Tichaona Makuza.md"
+  },
+  {
+    "id": "wilfred-runyararo-munetsi",
+    "name": "Wilfred Runyararo Munetsi",
+    "type": "person",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\People\\Wilfred Runyararo Munetsi.md"
+  },
+  {
+    "id": "yeukai-simbanegavi",
+    "name": "Yeukai Simbanegavi",
+    "type": "person",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\People\\Yeukai Simbanegavi.md"
+  },
+  {
+    "id": "capital-gains-tax-act",
+    "name": "Capital Gains Tax Act",
+    "type": "law",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Legislation\\Capital Gains Tax Act.md"
+  },
+  {
+    "id": "companies-act",
+    "name": "Companies Act",
+    "type": "law",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Legislation\\Companies Act.md"
+  },
+  {
+    "id": "companies-and-other-business-entities-act",
+    "name": "Companies and Other Business Entities Act",
+    "type": "law",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Legislation\\Companies and Other Business Entities Act.md"
+  },
+  {
+    "id": "education-act",
+    "name": "Education Act",
+    "type": "law",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Legislation\\Education Act.md"
+  },
+  {
+    "id": "electricity-act",
+    "name": "Electricity Act",
+    "type": "law",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Legislation\\Electricity Act.md"
+  },
+  {
+    "id": "energy-regulatory-authority-act",
+    "name": "Energy Regulatory Authority Act",
+    "type": "law",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Legislation\\Energy Regulatory Authority Act.md"
+  },
+  {
+    "id": "environmental-management-act",
+    "name": "Environmental Management Act",
+    "type": "law",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Legislation\\Environmental Management Act.md"
+  },
+  {
+    "id": "income-tax-act",
+    "name": "Income Tax Act",
+    "type": "law",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Legislation\\Income Tax Act.md"
+  },
+  {
+    "id": "mines-and-minerals-act",
+    "name": "Mines and Minerals Act",
+    "type": "law",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Legislation\\Mines and Minerals Act.md"
+  },
+  {
+    "id": "mmcz-act",
+    "name": "MMCZ Act",
+    "type": "law",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Legislation\\MMCZ Act.md"
+  },
+  {
+    "id": "postal-and-telecommunications-act",
+    "name": "Postal and Telecommunications Act",
+    "type": "law",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Legislation\\Postal and Telecommunications Act.md"
+  },
+  {
+    "id": "precious-stones-trade-act",
+    "name": "Precious Stones Trade Act",
+    "type": "law",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Legislation\\Precious Stones Trade Act.md"
+  },
+  {
+    "id": "reserve-bank-of-zimbabwe-act",
+    "name": "Reserve Bank of Zimbabwe Act",
+    "type": "law",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Legislation\\Reserve Bank of Zimbabwe Act.md"
+  },
+  {
+    "id": "revenue-authority-act",
+    "name": "Revenue Authority Act",
+    "type": "law",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Legislation\\Revenue Authority Act.md"
+  },
+  {
+    "id": "value-added-tax-regulations",
+    "name": "Value Added Tax Regulations",
+    "type": "law",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Legislation\\Value Added Tax Regulations.md"
+  },
+  {
+    "id": "zimbabwe-investment-and-development-act",
+    "name": "Zimbabwe Investment and Development Act",
+    "type": "law",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Legislation\\Zimbabwe Investment and Development Act.md"
+  },
+  {
+    "id": "aviation-approval",
+    "name": "Aviation Approval",
+    "type": "unknown",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Aviation Approval.md"
+  },
+  {
+    "id": "blasting-permit",
+    "name": "Blasting Permit",
+    "type": "unknown",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Blasting Permit.md"
+  },
+  {
+    "id": "borehole-water-permit",
+    "name": "Borehole_Water Permit",
+    "type": "unknown",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Borehole_Water Permit.md"
+  },
+  {
+    "id": "cellular-telecommunications-licence",
+    "name": "Cellular Telecommunications Licence",
+    "type": "unknown",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Cellular Telecommunications Licence.md"
+  },
+  {
+    "id": "company-registration-certificate",
+    "name": "Company Registration Certificate",
+    "type": "unknown",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Company Registration Certificate.md"
+  },
+  {
+    "id": "courier-operator-licence",
+    "name": "Courier Operator Licence",
+    "type": "unknown",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Courier Operator Licence.md"
+  },
+  {
+    "id": "data-service-provider-licence",
+    "name": "Data Service Provider Licence",
+    "type": "unknown",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Data Service Provider Licence.md"
+  },
+  {
+    "id": "diamond-marketing-approval",
+    "name": "Diamond Marketing Approval",
+    "type": "unknown",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Diamond Marketing Approval.md"
+  },
+  {
+    "id": "distribution-licence",
+    "name": "Distribution Licence",
+    "type": "unknown",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Distribution Licence.md"
+  },
+  {
+    "id": "eia-certificate",
+    "name": "EIA Certificate",
+    "type": "unknown",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\EIA Certificate.md"
+  },
+  {
+    "id": "employer-registration",
+    "name": "Employer Registration",
+    "type": "unknown",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Employer Registration.md"
+  },
+  {
+    "id": "environmental-approval",
+    "name": "Environmental Approval",
+    "type": "unknown",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Environmental Approval.md"
+  },
+  {
+    "id": "environmental-impact-assessment",
+    "name": "Environmental Impact Assessment",
+    "type": "unknown",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Environmental Impact Assessment.md"
+  },
+  {
+    "id": "exchange-control-approval-where-applicable",
+    "name": "Exchange Control Approval (where applicable)",
+    "type": "unknown",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Exchange Control Approval (where applicable).md"
+  },
+  {
+    "id": "exclusive-prospecting-order",
+    "name": "Exclusive Prospecting Order",
+    "type": "unknown",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Exclusive Prospecting Order.md"
+  },
+  {
+    "id": "explosives-permit",
+    "name": "Explosives Permit",
+    "type": "unknown",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Explosives Permit.md"
+  },
+  {
+    "id": "export-authorization",
+    "name": "Export Authorization",
+    "type": "unknown",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Export Authorization.md"
+  },
+  {
+    "id": "export-permit",
+    "name": "Export Permit",
+    "type": "unknown",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Export Permit.md"
+  },
+  {
+    "id": "forestry-permit",
+    "name": "Forestry Permit",
+    "type": "unknown",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Forestry Permit.md"
+  },
+  {
+    "id": "fuel-retail-licence",
+    "name": "Fuel Retail Licence",
+    "type": "unknown",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Fuel Retail Licence.md"
+  },
+  {
+    "id": "fuel-storage-licence",
+    "name": "Fuel Storage Licence",
+    "type": "unknown",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Fuel Storage Licence.md"
+  },
+  {
+    "id": "generation-licence",
+    "name": "Generation Licence",
+    "type": "unknown",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Generation Licence.md"
+  },
+  {
+    "id": "gold-buying-and-delivery-registration",
+    "name": "Gold Buying and Delivery Registration",
+    "type": "unknown",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Gold Buying and Delivery Registration.md"
+  },
+  {
+    "id": "hazardous-substance-licence",
+    "name": "Hazardous Substance Licence",
+    "type": "unknown",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Hazardous Substance Licence.md"
+  },
+  {
+    "id": "internet-access-provider-iap-licence",
+    "name": "Internet Access Provider (IAP) Licence",
+    "type": "unknown",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Internet Access Provider (IAP) Licence.md"
+  },
+  {
+    "id": "investment-license",
+    "name": "Investment License",
+    "type": "unknown",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Investment License.md"
+  },
+  {
+    "id": "mineral-marketing-registration",
+    "name": "Mineral Marketing Registration",
+    "type": "unknown",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Mineral Marketing Registration.md"
+  },
+  {
+    "id": "mining-lease-mining-title",
+    "name": "Mining Lease _ Mining Title",
+    "type": "unknown",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Mining Lease _ Mining Title.md"
+  },
+  {
+    "id": "network-facilities-licence",
+    "name": "Network Facilities Licence",
+    "type": "unknown",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Network Facilities Licence.md"
+  },
+  {
+    "id": "postal-operator-licence",
+    "name": "Postal Operator Licence",
+    "type": "unknown",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Postal Operator Licence.md"
+  },
+  {
+    "id": "ppp-approval",
+    "name": "PPP Approval",
+    "type": "unknown",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\PPP Approval.md"
+  },
+  {
+    "id": "private-network-licence",
+    "name": "Private Network Licence",
+    "type": "unknown",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Private Network Licence.md"
+  },
+  {
+    "id": "prospecting-licence",
+    "name": "Prospecting Licence",
+    "type": "unknown",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Prospecting Licence.md"
+  },
+  {
+    "id": "public-telecommunications-service-licence-ptsl",
+    "name": "Public Telecommunications Service Licence (PTSL)",
+    "type": "unknown",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Public Telecommunications Service Licence (PTSL).md"
+  },
+  {
+    "id": "radio-station-licence",
+    "name": "Radio Station Licence",
+    "type": "unknown",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Radio Station Licence.md"
+  },
+  {
+    "id": "rail-access-approval",
+    "name": "Rail Access Approval",
+    "type": "unknown",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Rail Access Approval.md"
+  },
+  {
+    "id": "registration-of-mine",
+    "name": "Registration of Mine",
+    "type": "unknown",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Registration of Mine.md"
+  },
+  {
+    "id": "road-access-approval",
+    "name": "Road Access Approval",
+    "type": "unknown",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Road Access Approval.md"
+  },
+  {
+    "id": "sez-investor-approval",
+    "name": "SEZ Investor Approval",
+    "type": "unknown",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\SEZ Investor Approval.md"
+  },
+  {
+    "id": "spectrum-licence",
+    "name": "Spectrum Licence",
+    "type": "unknown",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Spectrum Licence.md"
+  },
+  {
+    "id": "standards-certification-where-applicable",
+    "name": "Standards Certification (where applicable)",
+    "type": "unknown",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Standards Certification (where applicable).md"
+  },
+  {
+    "id": "supplier-registration",
+    "name": "Supplier Registration",
+    "type": "unknown",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Supplier Registration.md"
+  },
+  {
+    "id": "vsat-licence",
+    "name": "VSAT Licence",
+    "type": "unknown",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\VSAT Licence.md"
+  },
+  {
+    "id": "waste-management-licence",
+    "name": "Waste Management Licence",
+    "type": "unknown",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Waste Management Licence.md"
+  },
+  {
+    "id": "water-abstraction-permit",
+    "name": "Water Abstraction Permit",
+    "type": "unknown",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Water Abstraction Permit.md"
+  },
+  {
+    "id": "water-works-approval",
+    "name": "Water Works Approval",
+    "type": "unknown",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Water Works Approval.md"
+  },
+  {
+    "id": "wildlife-permit",
+    "name": "Wildlife Permit",
+    "type": "unknown",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Permits\\Wildlife Permit.md"
+  },
+  {
+    "id": "minister-of-energy-and-power-development",
+    "name": "Minister of Energy and Power Development",
+    "type": "government ministry",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Energy and Power Development\\Minister of Energy and Power Development.md"
+  },
+  {
+    "id": "ministry-of-energy-and-power-development",
+    "name": "Ministry of Energy and Power Development",
+    "type": "government ministry",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Energy and Power Development\\Ministry of Energy and Power Development.md"
+  },
+  {
+    "id": "minister-of-finance-economic-development-and-investment-promotion",
+    "name": "Minister of Finance, Economic Development and Investment Promotion",
+    "type": "government ministry",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Finance, Economic Development and Investment Promotion\\Minister of Finance, Economic Development and Investment Promotion.md"
+  },
+  {
+    "id": "ministry-of-finance-economic-development-and-investment-promotion",
+    "name": "Ministry of Finance, Economic Development and Investment Promotion",
+    "type": "government ministry",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Finance, Economic Development and Investment Promotion\\Ministry of Finance, Economic Development and Investment Promotion.md"
+  },
+  {
+    "id": "minister-of-mines-and-mining-development",
+    "name": "Minister of Mines and Mining Development",
+    "type": "government ministry",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Mines and Mining Development\\Minister of Mines and Mining Development.md"
+  },
+  {
+    "id": "ministry-of-mines-and-mining-development",
+    "name": "Ministry of Mines and Mining Development",
+    "type": "government ministry",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Mines and Mining Development\\Ministry of Mines and Mining Development.md"
+  },
+  {
+    "id": "communications-and-advocacy",
+    "name": "Communications and Advocacy",
+    "type": "government department",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Mines and Mining Development\\Departments\\Communications and Advocacy\\Communications and Advocacy.md"
+  },
+  {
+    "id": "gender-mainstreaming-inclusivity-and-wellness",
+    "name": "Gender Mainstreaming, Inclusivity and Wellness",
+    "type": "government department",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Mines and Mining Development\\Departments\\Gender Mainstreaming, Inclusivity and Wellness\\Gender Mainstreaming, Inclusivity and Wellness.md"
+  },
+  {
+    "id": "geological-survey-department",
+    "name": "Geological Survey Department",
+    "type": "government department",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Mines and Mining Development\\Departments\\Geological Survey Department\\Geological Survey Department.md"
+  },
+  {
+    "id": "metallurgy-department",
+    "name": "Metallurgy Department",
+    "type": "government department",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Mines and Mining Development\\Departments\\Metallurgy Department\\Metallurgy Department.md"
+  },
+  {
+    "id": "mining-engineering-department",
+    "name": "Mining Engineering Department",
+    "type": "government department",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Mines and Mining Development\\Departments\\Mining Engineering Department\\Mining Engineering Department.md"
+  },
+  {
+    "id": "office-of-the-deputy-minister-of-the-ministry-of-mines-and-mining-development-7a05c7",
+    "name": "Office of the Deputy Minister of the Ministry of Mines and Mining Development",
+    "type": "government department",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Mines and Mining Development\\Departments\\Office of the Deputy Minister of the Ministry of Mines and Mining Development\\Office of the Deputy Minister of the Ministry of Mines and Mining Development.md"
+  },
+  {
+    "id": "office-of-the-permanent-secretary-of-the-ministry-of-mines-and-mining-development",
+    "name": "Office of the Permanent Secretary of the Ministry of Mines and Mining Development",
+    "type": "government department",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Mines and Mining Development\\Departments\\Office of the Permanent Secretary of the Ministry of Mines and Mining Development\\Office of the Permanent Secretary of the Ministry of Mines and Mining Development.md"
+  },
+  {
+    "id": "research-value-addition-and-beneficiation-department",
+    "name": "Research, Value Addition and Beneficiation Department",
+    "type": "government department",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Mines and Mining Development\\Departments\\Research, Value Addition and Beneficiation Department\\Research, Value Addition and Beneficiation Department.md"
+  },
+  {
+    "id": "director-research-value-addition-and-beneficiation",
+    "name": "Director Research, Value Addition and Beneficiation",
+    "type": "government department",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Mines and Mining Development\\Departments\\Research, Value Addition and Beneficiation Department\\Positions\\Director Research, Value Addition and Beneficiation.md"
+  },
+  {
+    "id": "permanent-secretary",
+    "name": "Permanent Secretary",
+    "type": "government department",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Mines and Mining Development\\Departments\\Office of the Permanent Secretary of the Ministry of Mines and Mining Development\\Positions\\Permanent Secretary.md"
+  },
+  {
+    "id": "deputy-minister-of-the-ministry-of-mines-and-mining-development",
+    "name": "Deputy Minister of the Ministry of Mines and Mining Development",
+    "type": "government department",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Mines and Mining Development\\Departments\\Office of the Deputy Minister of the Ministry of Mines and Mining Development\\Positions\\Deputy Minister of the Ministry of Mines and Mining Development.md"
+  },
+  {
+    "id": "chief-government-mining-engineer",
+    "name": "Chief Government Mining Engineer",
+    "type": "government department",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Mines and Mining Development\\Departments\\Mining Engineering Department\\Positions\\Chief Government Mining Engineer.md"
+  },
+  {
+    "id": "director-geological-survey",
+    "name": "Director Geological Survey",
+    "type": "government department",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Mines and Mining Development\\Departments\\Geological Survey Department\\Positions\\Director Geological Survey.md"
+  },
+  {
+    "id": "deputy-director-communications-and-advocacy",
+    "name": "Deputy Director Communications and Advocacy",
+    "type": "government department",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Mines and Mining Development\\Departments\\Communications and Advocacy\\Positions\\Deputy Director Communications and Advocacy.md"
+  },
+  {
+    "id": "accountant-generals-department",
+    "name": "Accountant General's Department",
+    "type": "government department",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Finance, Economic Development and Investment Promotion\\Departments\\Accountant General's Department\\Accountant General's Department.md"
+  },
+  {
+    "id": "budget-and-fiscal-policy-department",
+    "name": "Budget and Fiscal Policy Department",
+    "type": "government department",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Finance, Economic Development and Investment Promotion\\Departments\\Budget and Fiscal Policy Department\\Budget and Fiscal Policy Department.md"
+  },
+  {
+    "id": "central-internal-audit-unit",
+    "name": "Central Internal Audit Unit",
+    "type": "government department",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Finance, Economic Development and Investment Promotion\\Departments\\Central Internal Audit Unit\\Central Internal Audit Unit.md"
+  },
+  {
+    "id": "economic-affairs-department",
+    "name": "Economic Affairs Department",
+    "type": "government department",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Finance, Economic Development and Investment Promotion\\Departments\\Economic Affairs Department\\Economic Affairs Department.md"
+  },
+  {
+    "id": "expenditure-management-department",
+    "name": "Expenditure Management Department",
+    "type": "government department",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Finance, Economic Development and Investment Promotion\\Departments\\Expenditure Management Department\\Expenditure Management Department.md"
+  },
+  {
+    "id": "financial-and-capital-markets-department",
+    "name": "Financial and Capital Markets Department",
+    "type": "government department",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Finance, Economic Development and Investment Promotion\\Departments\\Financial and Capital Markets Department\\Financial and Capital Markets Department.md"
+  },
+  {
+    "id": "investment-promotion-and-public-private-partnerships-department",
+    "name": "Investment Promotion and Public-Private Partnerships Department",
+    "type": "government department",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Finance, Economic Development and Investment Promotion\\Departments\\Investment Promotion and Public-Private Partnerships Department\\Investment Promotion and Public-Private Partnerships Department.md"
+  },
+  {
+    "id": "public-debt-management-office-zpdmo",
+    "name": "Public Debt Management Office (ZPDMO)",
+    "type": "government department",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Finance, Economic Development and Investment Promotion\\Departments\\Public Debt Management Office (ZPDMO)\\Public Debt Management Office (ZPDMO).md"
+  },
+  {
+    "id": "public-enterprises-reform-management-unit",
+    "name": "Public Enterprises Reform Management Unit",
+    "type": "government department",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Finance, Economic Development and Investment Promotion\\Departments\\Public Enterprises Reform Management Unit\\Public Enterprises Reform Management Unit.md"
+  },
+  {
+    "id": "revenue-and-tax-policy-department",
+    "name": "Revenue and Tax Policy Department",
+    "type": "government department",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Finance, Economic Development and Investment Promotion\\Departments\\Revenue and Tax Policy Department\\Revenue and Tax Policy Department.md"
+  },
+  {
+    "id": "zimbabwe-public-debt-management-office-zpdmo",
+    "name": "Zimbabwe Public Debt Management Office (ZPDMO)",
+    "type": "government department",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Finance, Economic Development and Investment Promotion\\Departments\\Zimbabwe Public Debt Management Office (ZPDMO)\\Zimbabwe Public Debt Management Office (ZPDMO).md"
+  },
+  {
+    "id": "head-public-debt-management-office-zpdmo",
+    "name": "Head, Public Debt Management Office (ZPDMO)",
+    "type": "government department",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Finance, Economic Development and Investment Promotion\\Departments\\Zimbabwe Public Debt Management Office (ZPDMO)\\Positions\\Head, Public Debt Management Office (ZPDMO).md"
+  },
+  {
+    "id": "acting-chief-director-revenue-and-tax-policy",
+    "name": "Acting Chief Director, Revenue and Tax Policy",
+    "type": "government department",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Finance, Economic Development and Investment Promotion\\Departments\\Revenue and Tax Policy Department\\Position\\Acting Chief Director, Revenue and Tax Policy.md"
+  },
+  {
+    "id": "chief-director-expenditure-management",
+    "name": "Chief Director, Expenditure Management",
+    "type": "government department",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Finance, Economic Development and Investment Promotion\\Departments\\Expenditure Management Department\\Positions\\Chief Director, Expenditure Management.md"
+  },
+  {
+    "id": "chief-director-economic-affairs",
+    "name": "Chief Director, Economic Affairs",
+    "type": "government department",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Finance, Economic Development and Investment Promotion\\Departments\\Economic Affairs Department\\Positions\\Chief Director, Economic Affairs.md"
+  },
+  {
+    "id": "chief-director-central-internal-audit-unit",
+    "name": "Chief Director, Central Internal Audit Unit",
+    "type": "government department",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Finance, Economic Development and Investment Promotion\\Departments\\Central Internal Audit Unit\\Positions\\Chief Director, Central Internal Audit Unit.md"
+  },
+  {
+    "id": "accountant-general",
+    "name": "Accountant General",
+    "type": "government department",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Finance, Economic Development and Investment Promotion\\Departments\\Accountant General's Department\\Position\\Accountant General.md"
+  },
+  {
+    "id": "energy-conservation-and-renewable-energy",
+    "name": "Energy Conservation and Renewable Energy",
+    "type": "government department",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Energy and Power Development\\Departments\\Energy Conservation and Renewable Energy\\Energy Conservation and Renewable Energy.md"
+  },
+  {
+    "id": "energy-data-and-coordination",
+    "name": "Energy Data and Coordination",
+    "type": "government department",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Energy and Power Development\\Departments\\Energy Data and Coordination\\Energy Data and Coordination.md"
+  },
+  {
+    "id": "energy-planning-and-projects",
+    "name": "Energy Planning and Projects",
+    "type": "government department",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Energy and Power Development\\Departments\\Energy Planning and Projects\\Energy Planning and Projects.md"
+  },
+  {
+    "id": "energy-regulation-and-compliance",
+    "name": "Energy Regulation and Compliance",
+    "type": "government department",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Energy and Power Development\\Departments\\Energy Regulation and Compliance\\Energy Regulation and Compliance.md"
+  },
+  {
+    "id": "office-of-the-deputy-minister-of-the-ministry-of-mines-and-mining-development-7a05c7",
+    "name": "Office of the Deputy Minister of the Ministry of Mines and Mining Development",
+    "type": "government department",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Energy and Power Development\\Departments\\Office of the Deputy Minister of the Ministry of Mines and Mining Development\\Office of the Deputy Minister of the Ministry of Mines and Mining Development.md"
+  },
+  {
+    "id": "petroleum-and-energy-supply",
+    "name": "Petroleum and Energy Supply",
+    "type": "government department",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Energy and Power Development\\Departments\\Petroleum and Energy Supply\\Petroleum and Energy Supply.md"
+  },
+  {
+    "id": "power-development",
+    "name": "Power Development",
+    "type": "government department",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Energy and Power Development\\Departments\\Power Development\\Power Development.md"
+  },
+  {
+    "id": "provincial-energy-coordination-offices",
+    "name": "Provincial Energy Coordination Offices",
+    "type": "government department",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Energy and Power Development\\Departments\\Provincial Energy Coordination Offices\\Provincial Energy Coordination Offices.md"
+  },
+  {
+    "id": "resource-centre",
+    "name": "Resource Centre",
+    "type": "government department",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Energy and Power Development\\Departments\\Resource Centre\\Resource Centre.md"
+  },
+  {
+    "id": "rural-electrification",
+    "name": "Rural Electrification",
+    "type": "government department",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Energy and Power Development\\Departments\\Rural Electrification\\Rural Electrification.md"
+  },
+  {
+    "id": "deputy-minister-of-energy-and-power-development",
+    "name": "Deputy Minister of Energy and Power Development",
+    "type": "government department",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Government\\Ministries\\Ministry of Energy and Power Development\\Departments\\Office of the Deputy Minister of the Ministry of Mines and Mining Development\\Positions\\Deputy Minister of Energy and Power Development.md"
+  },
+  {
+    "id": "zimbabwe-electricity-supply-authority-zesa-holdings",
+    "name": "Zimbabwe Electricity Supply Authority (ZESA Holdings)",
+    "type": "holding_company;state_owned_enterprise",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Energy\\Zimbabwe Electricity Supply Authority (ZESA Holdings).md"
+  },
+  {
+    "id": "zimbabwe-electricity-transmission-and-distribution-company-zetdc",
+    "name": "Zimbabwe Electricity Transmission and Distribution Company (ZETDC)",
+    "type": "utility_company;subsidiary",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Energy\\Zimbabwe Electricity Transmission and Distribution Company (ZETDC).md"
+  },
+  {
+    "id": "zimbabwe-geological-survey",
+    "name": "Zimbabwe Geological Survey",
+    "type": "government_department;research_body",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Energy\\Zimbabwe Geological Survey.md"
+  },
+  {
+    "id": "zimbabwe-national-water-authority-zinwa",
+    "name": "Zimbabwe National Water Authority (ZINWA)",
+    "type": "parastatal;statutory_body",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Energy\\Zimbabwe National Water Authority (ZINWA).md"
+  },
+  {
+    "id": "zimbabwe-power-company-zpc",
+    "name": "Zimbabwe Power Company (ZPC)",
+    "type": "generation_company;subsidiary",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Energy\\Zimbabwe Power Company (ZPC).md"
+  },
+  {
+    "id": "forestry-commission",
+    "name": "Forestry Commission",
+    "type": "statutory_body;government_agency",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Enviroment\\Forestry Commission.md"
+  },
+  {
+    "id": "parks-and-wildlife-management-authority-zimparks",
+    "name": "Parks and Wildlife Management Authority (ZimParks)",
+    "type": "statutory_authority;parastatal",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Enviroment\\Parks and Wildlife Management Authority (ZimParks).md"
+  },
+  {
+    "id": "national-social-security-authority-nssa",
+    "name": "National Social Security Authority (NSSA)",
+    "type": "statutory_body;pension_fund",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Finance\\National Social Security Authority (NSSA).md"
+  },
+  {
+    "id": "arcadia-lithium-mine",
+    "name": "Arcadia Lithium Mine",
+    "type": "mine",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Mines\\Arcadia Lithium Mine.md"
+  },
+  {
+    "id": "bikita-minerals",
+    "name": "Bikita Minerals",
+    "type": "mine",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Mines\\Bikita Minerals.md"
+  },
+  {
+    "id": "bindura-nickel-corporation",
+    "name": "Bindura Nickel Corporation",
+    "type": "company",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Mines\\Bindura Nickel Corporation.md"
+  },
+  {
+    "id": "blanket-mine",
+    "name": "Blanket Mine",
+    "type": "mine",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Mines\\Blanket Mine.md"
+  },
+  {
+    "id": "caledonia-mining-corporation",
+    "name": "Caledonia Mining Corporation",
+    "type": "company",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Mines\\Caledonia Mining Corporation.md"
+  },
+  {
+    "id": "cam-and-motor-mine",
+    "name": "Cam and Motor Mine",
+    "type": "mine",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Mines\\Cam and Motor Mine.md"
+  },
+  {
+    "id": "fidelity-gold-refinery-fgr",
+    "name": "Fidelity Gold Refinery (FGR)",
+    "type": "company;subsidiary",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Mines\\Fidelity Gold Refinery (FGR).md"
+  },
+  {
+    "id": "freda-rebecca-gold-mine",
+    "name": "Freda Rebecca Gold Mine",
+    "type": "mine",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Mines\\Freda Rebecca Gold Mine.md"
+  },
+  {
+    "id": "how-mine",
+    "name": "How Mine",
+    "type": "mine",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Mines\\How Mine.md"
+  },
+  {
+    "id": "hwange-colliery",
+    "name": "Hwange Colliery",
+    "type": "mine",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Mines\\Hwange Colliery.md"
+  },
+  {
+    "id": "kuvimba-mining-house",
+    "name": "Kuvimba Mining House",
+    "type": "company",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Mines\\Kuvimba Mining House.md"
+  },
+  {
+    "id": "mimosa-mine",
+    "name": "Mimosa Mine",
+    "type": "mine",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Mines\\Mimosa Mine.md"
+  },
+  {
+    "id": "mining-affairs-board-mab",
+    "name": "Mining Affairs Board (MAB)",
+    "type": "statutory_board;government_agency",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Mines\\Mining Affairs Board (MAB).md"
+  },
+  {
+    "id": "murowa-diamond-mine",
+    "name": "Murowa Diamond Mine",
+    "type": "mine",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Mines\\Murowa Diamond Mine.md"
+  },
+  {
+    "id": "national-oil-infrastructure-company-of-zimbabwe-noic",
+    "name": "National Oil Infrastructure Company of Zimbabwe (NOIC)",
+    "type": "state_owned_enterprise",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Mines\\National Oil Infrastructure Company of Zimbabwe (NOIC).md"
+  },
+  {
+    "id": "renco-mine",
+    "name": "Renco Mine",
+    "type": "mine",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Mines\\Renco Mine.md"
+  },
+  {
+    "id": "riozim",
+    "name": "RioZim",
+    "type": "company",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Mines\\RioZim.md"
+  },
+  {
+    "id": "shamva-mine",
+    "name": "Shamva Mine",
+    "type": "mine",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Mines\\Shamva Mine.md"
+  },
+  {
+    "id": "trojan-nickel-mine",
+    "name": "Trojan Nickel Mine",
+    "type": "mine",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Mines\\Trojan Nickel Mine.md"
+  },
+  {
+    "id": "unki-mine",
+    "name": "Unki Mine",
+    "type": "mine",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Mines\\Unki Mine.md"
+  },
+  {
+    "id": "zimasco-operations",
+    "name": "ZIMASCO Operations",
+    "type": "infrastructure",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Mines\\ZIMASCO Operations.md"
+  },
+  {
+    "id": "zimbabwe-mining-development-corporation-zmdc",
+    "name": "Zimbabwe Mining Development Corporation (ZMDC)",
+    "type": "parastatal;state_owned_enterprise",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Mines\\Zimbabwe Mining Development Corporation (ZMDC).md"
+  },
+  {
+    "id": "zimplats",
+    "name": "Zimplats",
+    "type": "company",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Mines\\Zimplats.md"
+  },
+  {
+    "id": "environmental-management-agency-ema",
+    "name": "Environmental Management Agency (EMA)",
+    "type": "Regulatory Agency",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Regulatory Agencies\\Environmental Management Agency (EMA).md"
+  },
+  {
+    "id": "minerals-marketing-corporation-of-zimbabwe-mmcz",
+    "name": "Minerals Marketing Corporation of Zimbabwe (MMCZ)",
+    "type": "Regulatory Agency / State Enterprise",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Regulatory Agencies\\Minerals Marketing Corporation of Zimbabwe (MMCZ).md"
+  },
+  {
+    "id": "postal-and-telecommunications-regulatory-authority-of-zimbabwe-potraz",
+    "name": "Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ)",
+    "type": "Regulatory Agency",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Regulatory Agencies\\Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ).md"
+  },
+  {
+    "id": "procurement-regulatory-authority-of-zimbabwe-praz",
+    "name": "Procurement Regulatory Authority of Zimbabwe (PRAZ)",
+    "type": "regulatory_authority;statutory_body",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Regulatory Agencies\\Procurement Regulatory Authority of Zimbabwe (PRAZ).md"
+  },
+  {
+    "id": "reserve-bank-of-zimbabwe-rbz",
+    "name": "Reserve Bank of Zimbabwe (RBZ)",
+    "type": "Financial Regulator",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Regulatory Agencies\\Reserve Bank of Zimbabwe (RBZ).md"
+  },
+  {
+    "id": "standards-association-of-zimbabwe-saz",
+    "name": "Standards Association of Zimbabwe (SAZ)",
+    "type": "non_profit;national_standards_body",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Regulatory Agencies\\Standards Association of Zimbabwe (SAZ).md"
+  },
+  {
+    "id": "zimbabwe-energy-regulatory-authority-zera",
+    "name": "Zimbabwe Energy Regulatory Authority (ZERA)",
+    "type": "Regulatory Agency",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Regulatory Agencies\\Zimbabwe Energy Regulatory Authority (ZERA).md"
+  },
+  {
+    "id": "zimbabwe-investment-and-development-agency-zida",
+    "name": "Zimbabwe Investment and Development Agency (ZIDA)",
+    "type": "Regulatory Agency",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Regulatory Agencies\\Zimbabwe Investment and Development Agency (ZIDA).md"
+  },
+  {
+    "id": "zimbabwe-national-statistics-agency-zimstat",
+    "name": "Zimbabwe National Statistics Agency (ZIMSTAT)",
+    "type": "statutory_agency;government_body",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Regulatory Agencies\\Zimbabwe National Statistics Agency (ZIMSTAT).md"
+  },
+  {
+    "id": "zimbabwe-revenue-authority-zimra",
+    "name": "Zimbabwe Revenue Authority (ZIMRA)",
+    "type": "Regulatory Agency",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Regulatory Agencies\\Zimbabwe Revenue Authority (ZIMRA).md"
+  },
+  {
+    "id": "ariel-international-school",
+    "name": "Ariel International School",
+    "type": "school",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Schools\\Ariel International School.md"
+  },
+  {
+    "id": "arundel-school",
+    "name": "Arundel School",
+    "type": "school",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Schools\\Arundel School.md"
+  },
+  {
+    "id": "association-of-trust-schools-zimbabwe",
+    "name": "Association of Trust Schools Zimbabwe",
+    "type": "association",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Schools\\Association of Trust Schools Zimbabwe.md"
+  },
+  {
+    "id": "cygnet-private-college",
+    "name": "Cygnet Private College",
+    "type": "school",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Schools\\Cygnet Private College.md"
+  },
+  {
+    "id": "direct-contact-school",
+    "name": "Direct Contact School",
+    "type": "school",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Schools\\Direct Contact School.md"
+  },
+  {
+    "id": "firm-foundation-christian-academy",
+    "name": "Firm Foundation Christian Academy",
+    "type": "school",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Schools\\Firm Foundation Christian Academy.md"
+  },
+  {
+    "id": "gmri-academy",
+    "name": "GMRI Academy",
+    "type": "school",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Schools\\GMRI Academy.md"
+  },
+  {
+    "id": "hakuna-matata-international-school",
+    "name": "Hakuna Matata International School",
+    "type": "school",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Schools\\Hakuna Matata International School.md"
+  },
+  {
+    "id": "harare-international-school",
+    "name": "Harare International School",
+    "type": "school",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Schools\\Harare International School.md"
+  },
+  {
+    "id": "hellenic-academy",
+    "name": "Hellenic Academy",
+    "type": "school",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Schools\\Hellenic Academy.md"
+  },
+  {
+    "id": "littlerock-international-school",
+    "name": "Littlerock International School",
+    "type": "school",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Schools\\Littlerock International School.md"
+  },
+  {
+    "id": "mother-touch-group-of-schools",
+    "name": "Mother Touch Group Of Schools",
+    "type": "school",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Schools\\Mother Touch Group Of Schools.md"
+  },
+  {
+    "id": "reekworth-schools",
+    "name": "Reekworth Schools",
+    "type": "school",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Schools\\Reekworth Schools.md"
+  },
+  {
+    "id": "ridley-college-zw",
+    "name": "Ridley College ZW",
+    "type": "school",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Schools\\Ridley College ZW.md"
+  },
+  {
+    "id": "riverlodge-international-school",
+    "name": "Riverlodge International School",
+    "type": "school",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Schools\\Riverlodge International School.md"
+  },
+  {
+    "id": "seattle-elite-senior-school",
+    "name": "Seattle Elite Senior School",
+    "type": "school",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Schools\\Seattle Elite Senior School.md"
+  },
+  {
+    "id": "solaris-international-school",
+    "name": "Solaris International School",
+    "type": "school",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Schools\\Solaris International School.md"
+  },
+  {
+    "id": "the-heritage-school",
+    "name": "The Heritage School",
+    "type": "school",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Schools\\The Heritage School.md"
+  },
+  {
+    "id": "the-hill-preparatory-school",
+    "name": "The Hill Preparatory School",
+    "type": "school",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Schools\\The Hill Preparatory School.md"
+  },
+  {
+    "id": "westminster-international-school",
+    "name": "Westminster International School",
+    "type": "school",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Schools\\Westminster International School.md"
+  },
+  {
+    "id": "westwood-international-school",
+    "name": "Westwood International School",
+    "type": "school",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Schools\\Westwood International School.md"
+  },
+  {
+    "id": "airports-company-of-zimbabwe-acz",
+    "name": "Airports Company of Zimbabwe (ACZ)",
+    "type": "state_owned_enterprise;airport_operator",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Transport\\Airports Company of Zimbabwe (ACZ).md"
+  },
+  {
+    "id": "civil-aviation-authority-of-zimbabwe-caaz",
+    "name": "Civil Aviation Authority of Zimbabwe (CAAZ)",
+    "type": "regulatory_authority;statutory_body",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Transport\\Civil Aviation Authority of Zimbabwe (CAAZ).md"
+  },
+  {
+    "id": "national-railways-of-zimbabwe-nrz",
+    "name": "National Railways of Zimbabwe (NRZ)",
+    "type": "parastatal;logistics_operator",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Transport\\National Railways of Zimbabwe (NRZ).md"
+  },
+  {
+    "id": "zimbabwe-national-road-administration-zinara",
+    "name": "Zimbabwe National Road Administration (ZINARA)",
+    "type": "statutory_body;administrative_fund",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Zimbabwe Businesses\\Companies\\Transport\\Zimbabwe National Road Administration (ZINARA).md"
+  },
+  {
+    "id": "abraham",
+    "name": "Abraham",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Abraham.md"
+  },
+  {
+    "id": "banket",
+    "name": "Banket",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Banket.md"
+  },
+  {
+    "id": "baswi",
+    "name": "Baswi",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Baswi.md"
+  },
+  {
+    "id": "bayi-bayi",
+    "name": "Bayi Bayi",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Bayi Bayi.md"
+  },
+  {
+    "id": "bemthree",
+    "name": "Bemthree",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Bemthree.md"
+  },
+  {
+    "id": "chadyeni",
+    "name": "Chadyeni",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Chadyeni.md"
+  },
+  {
+    "id": "chief-garahwa",
+    "name": "Chief Garahwa",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Chief Garahwa.md"
+  },
+  {
+    "id": "chief-matsiwo",
+    "name": "Chief Matsiwo",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Chief Matsiwo.md"
+  },
+  {
+    "id": "chief-nqoya",
+    "name": "Chief Nqoya",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Chief Nqoya.md"
+  },
+  {
+    "id": "chigweremba",
+    "name": "Chigweremba",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Chigweremba.md"
+  },
+  {
+    "id": "chinzou",
+    "name": "Chinzou",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Chinzou.md"
+  },
+  {
+    "id": "chiporiro",
+    "name": "Chiporiro",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Chiporiro.md"
+  },
+  {
+    "id": "chitehere",
+    "name": "Chitehere",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Chitehere.md"
+  },
+  {
+    "id": "chitowa",
+    "name": "Chitowa",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Chitowa.md"
+  },
+  {
+    "id": "chiva",
+    "name": "Chiva",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Chiva.md"
+  },
+  {
+    "id": "chivima",
+    "name": "Chivima",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Chivima.md"
+  },
+  {
+    "id": "craigengower",
+    "name": "Craigengower",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Craigengower.md"
+  },
+  {
+    "id": "dabula",
+    "name": "Dabula",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Dabula.md"
+  },
+  {
+    "id": "danda",
+    "name": "Danda",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Danda.md"
+  },
+  {
+    "id": "deleleni",
+    "name": "Deleleni",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Deleleni.md"
+  },
+  {
+    "id": "duvaduve",
+    "name": "Duvaduve",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Duvaduve.md"
+  },
+  {
+    "id": "gadzema",
+    "name": "Gadzema",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Gadzema.md"
+  },
+  {
+    "id": "gokwe",
+    "name": "Gokwe",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Gokwe.md"
+  },
+  {
+    "id": "gondowe",
+    "name": "Gondowe",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Gondowe.md"
+  },
+  {
+    "id": "gwaza",
+    "name": "Gwaza",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Gwaza.md"
+  },
+  {
+    "id": "impampa",
+    "name": "Impampa",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Impampa.md"
+  },
+  {
+    "id": "jacaranda",
+    "name": "Jacaranda",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Jacaranda.md"
+  },
+  {
+    "id": "jera",
+    "name": "Jera",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Jera.md"
+  },
+  {
+    "id": "kadivirire",
+    "name": "Kadivirire",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Kadivirire.md"
+  },
+  {
+    "id": "kawahove",
+    "name": "Kawahove",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Kawahove.md"
+  },
+  {
+    "id": "kotwa",
+    "name": "Kotwa",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Kotwa.md"
+  },
+  {
+    "id": "kuvengwa",
+    "name": "Kuvengwa",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Kuvengwa.md"
+  },
+  {
+    "id": "machacha",
+    "name": "Machacha",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Machacha.md"
+  },
+  {
+    "id": "madimba",
+    "name": "Madimba",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Madimba.md"
+  },
+  {
+    "id": "madya",
+    "name": "Madya",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Madya.md"
+  },
+  {
+    "id": "mahambe",
+    "name": "Mahambe",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Mahambe.md"
+  },
+  {
+    "id": "makufa",
+    "name": "Makufa",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Makufa.md"
+  },
+  {
+    "id": "makulukusa",
+    "name": "Makulukusa",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Makulukusa.md"
+  },
+  {
+    "id": "makvlela",
+    "name": "Makvlela",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Makvlela.md"
+  },
+  {
+    "id": "mamima",
+    "name": "Mamima",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Mamima.md"
+  },
+  {
+    "id": "manyika",
+    "name": "Manyika",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Manyika.md"
+  },
+  {
+    "id": "maplanka",
+    "name": "Maplanka",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Maplanka.md"
+  },
+  {
+    "id": "masocha",
+    "name": "Masocha",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Masocha.md"
+  },
+  {
+    "id": "maware",
+    "name": "Maware",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Maware.md"
+  },
+  {
+    "id": "mberikanashe",
+    "name": "Mberikanashe",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Mberikanashe.md"
+  },
+  {
+    "id": "mbizo-african-township",
+    "name": "Mbizo African Township",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Mbizo African Township.md"
+  },
+  {
+    "id": "mbizo",
+    "name": "Mbizo",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Mbizo.md"
+  },
+  {
+    "id": "mbute",
+    "name": "Mbute",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Mbute.md"
+  },
+  {
+    "id": "mjumi",
+    "name": "Mjumi",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Mjumi.md"
+  },
+  {
+    "id": "mount-pleasant-park",
+    "name": "Mount Pleasant Park",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Mount Pleasant Park.md"
+  },
+  {
+    "id": "mtampane",
+    "name": "Mtampane",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Mtampane.md"
+  },
+  {
+    "id": "mtoredzanwe",
+    "name": "Mtoredzanwe",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Mtoredzanwe.md"
+  },
+  {
+    "id": "mtsuli",
+    "name": "Mtsuli",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Mtsuli.md"
+  },
+  {
+    "id": "mucibwa",
+    "name": "Mucibwa",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Mucibwa.md"
+  },
+  {
+    "id": "mundityi",
+    "name": "Mundityi",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Mundityi.md"
+  },
+  {
+    "id": "muswayi",
+    "name": "Muswayi",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Muswayi.md"
+  },
+  {
+    "id": "mutasa",
+    "name": "Mutasa",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Mutasa.md"
+  },
+  {
+    "id": "mutondoro",
+    "name": "Mutondoro",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Mutondoro.md"
+  },
+  {
+    "id": "muyambirwi",
+    "name": "Muyambirwi",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Muyambirwi.md"
+  },
+  {
+    "id": "mvurwi",
+    "name": "Mvurwi",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Mvurwi.md"
+  },
+  {
+    "id": "nazvaure",
+    "name": "Nazvaure",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Nazvaure.md"
+  },
+  {
+    "id": "ndakaripei",
+    "name": "Ndakaripei",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Ndakaripei.md"
+  },
+  {
+    "id": "ndongwe",
+    "name": "Ndongwe",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Ndongwe.md"
+  },
+  {
+    "id": "nemaparo",
+    "name": "Nemaparo",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Nemaparo.md"
+  },
+  {
+    "id": "nembudzia",
+    "name": "Nembudzia",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Nembudzia.md"
+  },
+  {
+    "id": "nganyana",
+    "name": "Nganyana",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Nganyana.md"
+  },
+  {
+    "id": "ngundu-halt",
+    "name": "Ngundu Halt",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Ngundu Halt.md"
+  },
+  {
+    "id": "nhambu",
+    "name": "Nhambu",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Nhambu.md"
+  },
+  {
+    "id": "nyabira",
+    "name": "Nyabira",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Nyabira.md"
+  },
+  {
+    "id": "nyadzi",
+    "name": "Nyadzi",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Nyadzi.md"
+  },
+  {
+    "id": "nyakatha",
+    "name": "Nyakatha",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Nyakatha.md"
+  },
+  {
+    "id": "nyamunga",
+    "name": "Nyamunga",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Nyamunga.md"
+  },
+  {
+    "id": "nyandebvu",
+    "name": "Nyandebvu",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Nyandebvu.md"
+  },
+  {
+    "id": "nyanyadzi",
+    "name": "Nyanyadzi",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Nyanyadzi.md"
+  },
+  {
+    "id": "nzunguchewa",
+    "name": "Nzunguchewa",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Nzunguchewa.md"
+  },
+  {
+    "id": "pambuka",
+    "name": "Pambuka",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Pambuka.md"
+  },
+  {
+    "id": "payarira",
+    "name": "Payarira",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Payarira.md"
+  },
+  {
+    "id": "penhalonga",
+    "name": "Penhalonga",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Penhalonga.md"
+  },
+  {
+    "id": "peter",
+    "name": "Peter",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Peter.md"
+  },
+  {
+    "id": "raffingora",
+    "name": "Raffingora",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Raffingora.md"
+  },
+  {
+    "id": "sakurai",
+    "name": "Sakurai",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Sakurai.md"
+  },
+  {
+    "id": "saumani",
+    "name": "Saumani",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Saumani.md"
+  },
+  {
+    "id": "selous",
+    "name": "Selous",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Selous.md"
+  },
+  {
+    "id": "senka",
+    "name": "Senka",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Senka.md"
+  },
+  {
+    "id": "shoko",
+    "name": "Shoko",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Shoko.md"
+  },
+  {
+    "id": "siganda",
+    "name": "Siganda",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Siganda.md"
+  },
+  {
+    "id": "sipongweni",
+    "name": "Sipongweni",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Sipongweni.md"
+  },
+  {
+    "id": "tankahukwe",
+    "name": "Tankahukwe",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Tankahukwe.md"
+  },
+  {
+    "id": "tavafumisa",
+    "name": "Tavafumisa",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Tavafumisa.md"
+  },
+  {
+    "id": "tshayakuhle",
+    "name": "Tshayakuhle",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Tshayakuhle.md"
+  },
+  {
+    "id": "tumbare",
+    "name": "Tumbare",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Tumbare.md"
+  },
+  {
+    "id": "tumbe",
+    "name": "Tumbe",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Tumbe.md"
+  },
+  {
+    "id": "watsomba",
+    "name": "Watsomba",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Watsomba.md"
+  },
+  {
+    "id": "wedza",
+    "name": "Wedza",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Wedza.md"
+  },
+  {
+    "id": "wenzera",
+    "name": "Wenzera",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Wenzera.md"
+  },
+  {
+    "id": "woodville-south",
+    "name": "Woodville South",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Woodville South.md"
+  },
+  {
+    "id": "zanyika",
+    "name": "Zanyika",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Zanyika.md"
+  },
+  {
+    "id": "zimondi",
+    "name": "Zimondi",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Zimondi.md"
+  },
+  {
+    "id": "zival",
+    "name": "Zival",
+    "type": "location",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Cities\\Zival.md"
+  },
+  {
+    "id": "bulawayo",
+    "name": "Bulawayo",
+    "type": "region",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Provinces\\Bulawayo.md"
+  },
+  {
+    "id": "harare",
+    "name": "Harare",
+    "type": "region",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Provinces\\Harare.md"
+  },
+  {
+    "id": "manicaland",
+    "name": "Manicaland",
+    "type": "region",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Provinces\\Manicaland.md"
+  },
+  {
+    "id": "mashonaland-central",
+    "name": "Mashonaland Central",
+    "type": "region",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Provinces\\Mashonaland Central.md"
+  },
+  {
+    "id": "mashonaland-east",
+    "name": "Mashonaland East",
+    "type": "region",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Provinces\\Mashonaland East.md"
+  },
+  {
+    "id": "mashonaland-west",
+    "name": "Mashonaland West",
+    "type": "region",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Provinces\\Mashonaland West.md"
+  },
+  {
+    "id": "masvingo",
+    "name": "Masvingo",
+    "type": "region",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Provinces\\Masvingo.md"
+  },
+  {
+    "id": "matabeleland-north",
+    "name": "Matabeleland North",
+    "type": "region",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Provinces\\Matabeleland North.md"
+  },
+  {
+    "id": "matabeleland-south",
+    "name": "Matabeleland South",
+    "type": "region",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Provinces\\Matabeleland South.md"
+  },
+  {
+    "id": "midlands",
+    "name": "Midlands",
+    "type": "region",
+    "country": "Zimbabwe",
+    "path": "atis\\Zimbabwe\\Region\\Provinces\\Midlands.md"
+  },
+  {
+    "id": "dbe-services",
+    "name": "DBE Services",
+    "type": "company",
+    "country": "United Kingdom",
+    "path": "atis\\United Kingdom\\Companies\\DBE Services.md"
+  },
+  {
+    "id": "deliver-british-education-ltd",
+    "name": "Deliver British Education Ltd",
+    "type": "company",
+    "country": "United Kingdom",
+    "path": "atis\\United Kingdom\\Companies\\Deliver British Education Ltd.md"
+  },
+  {
+    "id": "metallon-corporation",
+    "name": "Metallon Corporation",
+    "type": "company",
+    "country": "United Kingdom",
+    "path": "atis\\United Kingdom\\Companies\\Metallon Corporation.md"
+  },
+  {
+    "id": "subspace-energy-hub",
+    "name": "Subspace Energy Hub",
+    "type": "consortium",
+    "country": "Switzerland",
+    "path": "atis\\Switzerland\\Companies\\Subspace Energy Hub.md"
+  },
+  {
+    "id": "versuchsstollen-hagerbach-hagerbach-test-gallery",
+    "name": "VersuchsStollen Hagerbach (Hagerbach Test Gallery)",
+    "type": "company",
+    "country": "Switzerland",
+    "path": "atis\\Switzerland\\Companies\\VersuchsStollen Hagerbach (Hagerbach Test Gallery).md"
+  },
+  {
+    "id": "anglo-american-platinum",
+    "name": "Anglo American Platinum",
+    "type": "company",
+    "country": "South Africa",
+    "path": "atis\\South Africa\\Companies\\Anglo American Platinum.md"
+  },
+  {
+    "id": "impala-platinum-holdings-limited",
+    "name": "Impala Platinum Holdings Limited",
+    "type": "company",
+    "country": "South Africa",
+    "path": "atis\\South Africa\\Companies\\Impala Platinum Holdings Limited.md"
+  },
+  {
+    "id": "sibanye-stillwater",
+    "name": "Sibanye-Stillwater",
+    "type": "company",
+    "country": "South Africa",
+    "path": "atis\\South Africa\\Companies\\Sibanye-Stillwater.md"
+  },
+  {
+    "id": "rid-batterie",
+    "name": "RID Batterie",
+    "type": "company",
+    "country": "Germany",
+    "path": "atis\\Germany\\Companies\\RID Batterie.md"
+  }
+]
