@@ -126,10 +126,26 @@ class RetrievalEngine:
         self._build_semantic_indexes()
         
         raw_seeds = []
-        for attr in ["locations", "companies", "entities", "assets", "nodes", "keywords"]:
-            val = getattr(plan, attr, [])
-            if isinstance(val, list): raw_seeds.extend(val)
-            elif isinstance(val, str) and val: raw_seeds.append(val)
+
+        for attr_name, value in vars(plan).items():
+
+            if attr_name in {"query", "intent", "question"}:
+                continue
+
+            if isinstance(value, list):
+                raw_seeds.extend(
+                    v.strip()
+                    for v in value
+                    if isinstance(v, str) and v.strip()
+                )
+
+            elif isinstance(value, str) and value.strip():
+                raw_seeds.append(value.strip())
+
+        raw_seeds = list(set(raw_seeds))
+
+        if getattr(plan, "query", None):
+            raw_seeds.append(plan.query.strip())
                 
         if getattr(plan, "query", None):
             raw_seeds.append(plan.query)
@@ -187,6 +203,7 @@ class RetrievalEngine:
                 edge_key = (self._normalize_token(edge.get("source")), self._normalize_token(edge.get("target")), channel)
                 if edge_key not in seen_edge_keys:
                     seen_edge_keys.add(edge_key)
+                    edge["channel"] = channel
                     provenance_edges.append(edge)
                 neighbors.append((neighbor, channel))
             return neighbors
@@ -256,12 +273,27 @@ class RetrievalEngine:
                 if isinstance(v, str):
                     node_text_tokens.update(self._get_token_set(v))
             token_hits = len(query_tokens.intersection(node_text_tokens))
-            score += token_hits * 20  # Heavily reward nodes containing target commodities/keywords
+            score += token_hits * 20
+
+            # INTENT-AWARE ENTITY BOOSTING
+            person_indicators = {"person", "individual", "individuals", "names", "name", "who", "directory", "centric", "positions"}
+            is_person = entity.get("type", "").lower() == "person"
+            
+            if query_tokens.intersection(person_indicators) and is_person:
+                score += 150  # Dynamic structural floor elevation
+                
+                # --- NEW LOGICAL FIX: Role Adjacency Boost ---
+                # If this person is directly linked to a mining or ministerial role, elevate them further
+                for edge in filtered_links:
+                    edge_context = str(edge.get("context", "")).lower()
+                    if "minister" in edge_context or "mining" in edge_context or "secretary" in edge_context:
+                        score += 100
+                        break
 
             gc = GraphCandidate(entity=entity, relationships=filtered_links)
             gc["relevance_score"] = max(0, score)
             candidates.append(gc)
 
-        # Sort and return the highest value nodes (limited to 6 to guarantee zero LLM timeouts)
+        # Sort and expand pool to 15 to ensure total leadership coverage
         candidates.sort(key=lambda x: x.get("relevance_score", 0), reverse=True)
-        return candidates[:6]
+        return candidates[:15]
