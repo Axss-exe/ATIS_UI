@@ -16,8 +16,9 @@ class ContextBuilder:
 
     def _compress_candidates_to_markdown(self, candidates: List[ExtractedCandidate]) -> str:
         """
-        Strips token-heavy JSON syntax and repetitive keys, converting
-        the graph candidates into dense, readable Markdown.
+        Densely serializes up to 15 graph candidates. Employs ultra-strict 
+        truncation on fields and limits total relationship edges to survive 
+        within strict 30k TPM limits when processing major hub nodes.
         """
         lines = []
         for rank, cand in enumerate(candidates, 1):
@@ -27,26 +28,43 @@ class ContextBuilder:
             
             lines.append(f"### {rank}. {name} ({ent_type})")
             
-            # 1. Add essential attributes (skip IDs and empty fields)
+            # Ultra-dense property values (90 chars max)
             for k, v in ent.items():
                 if k not in ["id", "name", "type"] and v:
-                    # Clean up random line breaks to save tokens
                     clean_val = str(v).replace('\n', ' ').strip()
+                    if len(clean_val) > 90:
+                        clean_val = clean_val[:87] + "..."
                     lines.append(f"- {k.capitalize()}: {clean_val}")
                     
-            # 2. Compress relationships to just the context strings
+            # Ultra-dense relationship contexts (90 chars max, max 6 edges per node)
             rels = cand.get("relationships", [])
             if rels:
                 lines.append("- Verified Connections:")
-                seen_contexts = set()
+                seen_relations = set()
+                edge_count = 0
+                
+                # SLICE THE RELATIONS: Only process the first 6 unique structural edges
                 for r in rels:
+                    if edge_count >= 6:
+                        break
+                        
+                    rel_type = r.get("channel", "connected_to").upper()
+                    source = r.get("source", "").strip()
+                    target = r.get("target", "").strip()
                     ctx = r.get("context", "")
-                    if ctx and ctx not in seen_contexts:
-                        # Strip wikilink brackets [[ ]] as they waste tokens
-                        clean_ctx = ctx.replace("[[", "").replace("]]", "").strip()
-                        lines.append(f"  * {clean_ctx}")
-                        seen_contexts.add(ctx)
+                    
+                    edge_key = f"{source} -> {rel_type} -> {target}"
+                    
+                    if edge_key not in seen_relations:
+                        lines.append(f"  * [Edge]: {source.upper()} ({rel_type}) -> {target.upper()}")
+                        if ctx:
+                            clean_ctx = ctx.replace("[[", "").replace("]]", "").strip()
+                            if len(clean_ctx) > 90:
+                                clean_ctx = clean_ctx[:87] + "..."
+                            lines.append(f"    [Context]: \"{clean_ctx}\"")
+                        seen_relations.add(edge_key)
+                        edge_count += 1
             
-            lines.append("") # Spacing
+            lines.append("") 
             
         return "\n".join(lines)
