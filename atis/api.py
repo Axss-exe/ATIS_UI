@@ -2,10 +2,24 @@
 import sys
 import json
 from fastapi import FastAPI
-from pydantic import BaseModel  # <-- FIXED: Pulled cleanly from pydantic
+from fastapi.middleware.cors import CORSMiddleware
+from pydantic import BaseModel
 from atis.orchestrator.compiler_orchestrator import AtisCompilerOrchestrator
 
 app = FastAPI(title="ATIS Frontend V0 Data Bridge")
+
+# ==============================================================================
+# CORS CONFIGURATION
+# Allows external frontends (like V0/React) to communicate with this API
+# ==============================================================================
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # In production, replace "*" with your actual V0 domain
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
 orchestrator = AtisCompilerOrchestrator()
 
 # Request body validation structure for web hooks
