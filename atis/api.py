@@ -1,56 +1,137 @@
 # atis/api.py
+
 import sys
 import json
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
+
 from atis.orchestrator.compiler_orchestrator import AtisCompilerOrchestrator
 
-app = FastAPI(title="ATIS Frontend V0 Data Bridge")
+
+# ==============================================================================
+# FASTAPI APPLICATION
+# ==============================================================================
+
+app = FastAPI(
+    title="ATIS Frontend V0 Data Bridge"
+)
+
+
+# ==============================================================================
+# HEALTH + ROOT ROUTES
+# Required for Render / deployment health checks
+# ==============================================================================
+
+@app.get("/")
+async def root():
+    return {
+        "status": "online",
+        "service": "ATIS Frontend V0 Data Bridge"
+    }
+
+
+@app.get("/health")
+async def health():
+    return {
+        "status": "healthy"
+    }
+
 
 # ==============================================================================
 # CORS CONFIGURATION
-# Allows external frontends (like V0/React) to communicate with this API
+# Allows external frontends (V0/React/etc.) to communicate with this API
 # ==============================================================================
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # In production, replace "*" with your actual V0 domain
-    allow_credentials=True,
+    allow_origins=["*"],  # Replace with your V0 domain later
+    allow_credentials=False,
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
+
+# ==============================================================================
+# ATIS ORCHESTRATOR INITIALIZATION
+# ==============================================================================
+
 orchestrator = AtisCompilerOrchestrator()
 
-# Request body validation structure for web hooks
+
+# ==============================================================================
+# REQUEST MODELS
+# ==============================================================================
+
 class QueryRequest(BaseModel):
     query: str
 
+
+# ==============================================================================
+# FRONTEND API ROUTES
+# ==============================================================================
+
 @app.post("/api/intelligence")
 async def get_frontend_intel(payload: QueryRequest):
-    """Web endpoint consumed by your V0 frontend hooks."""
+    """
+    Web endpoint consumed by your V0 frontend hooks.
+    
+    Receives:
+    {
+        "query": "example intelligence question"
+    }
+
+    Returns:
+    {
+        ... v0_json payload ...
+    }
+    """
+
     result = orchestrator.compile(payload.query)
+
     return result["v0_json"]
 
 
 # ==============================================================================
-# RUNTIME ENTRY ROUTER
-# Allows you to run `python -m atis.api "query"` directly to inspect the JSON!
+# CLI RUNTIME SUPPORT
+#
+# Allows:
+#
+# python -m atis.api "query"
+#
+# to directly test the compiler locally.
+#
 # ==============================================================================
+
 if __name__ == "__main__":
-    # If a query argument is passed via terminal: python -m atis.api "How is..."
+
     if len(sys.argv) > 1:
+
         cli_query = sys.argv[1]
-        
-        # Guard clause if you use this block to boot uvicorn manually later
+
+        # Prevent accidental server boot commands
         if cli_query not in ["server", "run"]:
-            # Compile the single-source-of-truth payload
+
             execution_frame = orchestrator.compile(cli_query)
-            
-            # Print pristine, pretty-printed JSON directly to terminal console
-            print(json.dumps(execution_frame["v0_json"], indent=2))
+
+            print(
+                json.dumps(
+                    execution_frame["v0_json"],
+                    indent=2
+                )
+            )
+
     else:
-        # Fallback default: Boot up the local web server frame if run without arguments
+
         import uvicorn
-        print("[INFO] Starting regional ATIS web infrastructure server...")
-        uvicorn.run("atis.api:app", host="127.0.0.1", port=8000, reload=True)
+
+        print(
+            "[INFO] Starting regional ATIS web infrastructure server..."
+        )
+
+        uvicorn.run(
+            "atis.api:app",
+            host="127.0.0.1",
+            port=8000,
+            reload=True
+        )
