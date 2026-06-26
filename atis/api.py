@@ -1,5 +1,3 @@
-# atis/api.py
-
 import sys
 import json
 
@@ -10,20 +8,27 @@ from pydantic import BaseModel
 from atis.orchestrator.compiler_orchestrator import AtisCompilerOrchestrator
 
 
-# ==============================================================================
-# FASTAPI APPLICATION
-# ==============================================================================
-
 app = FastAPI(
     title="ATIS Frontend V0 Data Bridge"
 )
 
-app.add_middleware(
-    async def add_debug_headers(request: Request, call_next):
+
+# ==============================================================================
+# DEBUG MIDDLEWARE
+# ==============================================================================
+
+@app.middleware("http")
+async def add_debug_headers(request: Request, call_next):
     response = await call_next(request)
     response.headers["X-ATIS-DEBUG"] = "true"
     return response
 
+
+# ==============================================================================
+# CORS CONFIGURATION
+# ==============================================================================
+
+app.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "https://atis-ui-1.onrender.com",
@@ -34,7 +39,6 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
-
 
 # ==============================================================================
 # HEALTH + ROOT ROUTES
