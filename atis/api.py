@@ -100,6 +100,28 @@ async def get_frontend_intel(payload: QueryRequest):
 
     return result["v0_json"]
 
+# ==============================================================================
+# V0 COMPATIBILITY ROUTE
+# Supports frontend requests expecting /api/query
+# ==============================================================================
+
+@app.post("/api/query")
+async def query_intelligence(payload: QueryRequest):
+    """
+    Compatibility endpoint for V0 frontend.
+    
+    Receives:
+    {
+        "query": "example intelligence question"
+    }
+
+    Returns:
+    ATIS v0_json payload
+    """
+
+    result = orchestrator.compile(payload.query)
+
+    return result["v0_json"]
 
 # ==============================================================================
 # CLI RUNTIME SUPPORT
