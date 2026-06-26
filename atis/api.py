@@ -2,7 +2,8 @@
 
 import sys
 import json
-from fastapi import FastAPI
+
+from fastapi import FastAPI, Request
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 
@@ -15,6 +16,23 @@ from atis.orchestrator.compiler_orchestrator import AtisCompilerOrchestrator
 
 app = FastAPI(
     title="ATIS Frontend V0 Data Bridge"
+)
+
+app.add_middleware(
+    async def add_debug_headers(request: Request, call_next):
+    response = await call_next(request)
+    response.headers["X-ATIS-DEBUG"] = "true"
+    return response
+
+    CORSMiddleware,
+    allow_origins=[
+        "https://atis-ui-1.onrender.com",
+        "http://localhost:8000",
+        "http://127.0.0.1:8000",
+    ],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
 
 
@@ -37,19 +55,6 @@ async def health():
         "status": "healthy"
     }
 
-
-# ==============================================================================
-# CORS CONFIGURATION
-# Allows external frontends (V0/React/etc.) to communicate with this API
-# ==============================================================================
-
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=["*"],  # Replace with your V0 domain later
-    allow_credentials=False,
-    allow_methods=["*"],
-    allow_headers=["*"],
-)
 
 
 # ==============================================================================
