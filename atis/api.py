@@ -31,6 +31,7 @@ async def add_debug_headers(request: Request, call_next):
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
+        "https://vm-atis-frontend-build-68.vusercontent.net",
         "https://atis-ui-1.onrender.com",
         "http://localhost:8000",
         "http://127.0.0.1:8000",
